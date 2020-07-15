@@ -1,0 +1,1791 @@
+[1593273729836876]Executing with parameters:
+[1593273729883503]-i p2p-Gnutella08.txt
+[1593273729892033]-p 3131
+[1593273729893405]-o output.txt
+[1593273729893695]-s 10
+[1593273729893997]-x 20
+[1593273729895356]-r 0
+[1593273729913290]Loading graph...
+[1593273730220797]Graph loaded in 0.306753 seconds with 6301 nodes and 20777 edges.
+[1593273730236612]A pool of 10 threads has been created
+[1593273730350345]Thread #1: Waiting for the connection.
+[1593273730351352]Thread #0: Waiting for the connection.
+[1593273730351416]Thread #2: Waiting for the connection.
+[1593273730618452]Thread #3: Waiting for the connection.
+[1593273730618593]Thread #4: Waiting for the connection.
+[1593273730618672]Thread #5: Waiting for the connection.
+[1593273730618737]Thread #6: Waiting for the connection.
+[1593273730618800]Thread #7: Waiting for the connection.
+[1593273730618855]Thread #8: Waiting for the connection.
+[1593273730618912]Thread #9: Waiting for the connection.
+[1593273732919461]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273732931531]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273732959287]Thread #0: searching database for a path from node 0 to node 120
+[1593273732961199]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273732976918]Thread #0: no path in database, calculating 0->120
+[1593273732978008]Thread #1: searching database for a path from node 0 to node 998
+[1593273733022344]Thread #0: path calculated: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733030930]Thread #1: no path in database, calculating 0->998
+[1593273733038610]Thread #2: searching database for a path from node 0 to node 321331
+[1593273733044900]Thread #2: no path in database, calculating 0->321331
+[1593273733045143]Thread #2: path not possible from node 0 to 321331
+[1593273733039266]A connection has been delegated to thread id #3, system load 30.000000%
+[1593273733045587]A connection has been delegated to thread id #4, system load 30.000000%
+[1593273733045868]A connection has been delegated to thread id #5, system load 30.000000%
+[1593273733045944]A connection has been delegated to thread id #6, system load 30.000000%
+[1593273733046012]A connection has been delegated to thread id #7, system load 30.000000%
+[1593273733046086]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273733038189]Thread #1: path calculated: 0->3->703->2634->3409->707->1107->998
+[1593273733063064]Thread #1: responding to client and adding path to database
+[1593273733082688]Thread #6: searching database for a path from node 32 to node 5000
+[1593273733083153]Thread #6: no path in database, calculating 32->5000
+[1593273733101734]Thread #4: searching database for a path from node 5000 to node 32
+[1593273733093778]Thread #6: path calculated: 32->1199->3->703->2638->4230->5000
+[1593273733106211]Thread #4: no path in database, calculating 5000->32
+[1593273733107105]Thread #4: path not possible from node 5000 to 32
+[1593273733114797]Thread #5: searching database for a path from node 23 to node 3492
+[1593273733114965]Thread #5: no path in database, calculating 23->3492
+[1593273733115641]Thread #5: path not possible from node 23 to 3492
+[1593273733115971]A connection has been delegated to thread id #9, system load 50.000000%
+[1593273733117014]Thread #3: searching database for a path from node 0 to node 10
+[1593273733117373]Thread #3: no path in database, calculating 0->10
+[1593273733118034]Thread #3: path calculated: 0->10
+[1593273733118538]Thread #7: searching database for a path from node 0 to node 5
+[1593273733118643]Thread #7: no path in database, calculating 0->5
+[1593273733143460]Thread #8: searching database for a path from node 0 to node 321331
+[1593273733144176]Thread #7: path calculated: 0->5
+[1593273733146914]Thread #8: no path in database, calculating 0->321331
+[1593273733147350]Thread #8: path not possible from node 0 to 321331
+[1593273733161183]Thread #9: searching database for a path from node 0 to node 5
+[1593273733167368]Thread #9: no path in database, calculating 0->5
+[1593273733168577]Thread #9: path calculated: 0->5
+[1593273733168731]Thread #3: responding to client and adding path to database
+[1593273733170884]Thread #7: responding to client and adding path to database
+[1593273733171234]Thread #6: responding to client and adding path to database
+[1593273733174346]Thread #0: responding to client and adding path to database
+[1593273733176125]Thread #9: responding to client and adding path to database
+[1593273733182814]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273733183106]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273733183269]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273733183426]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273733183569]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273733183719]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273733183990]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273733184132]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273733194209]Thread #5: searching database for a path from node 23 to node 3492
+[1593273733223282]A connection has been delegated to thread id #8, system load 40.000000%
+[1593273733223628]A connection has been delegated to thread id #9, system load 40.000000%
+[1593273733227887]Thread #5: no path in database, calculating 23->3492
+[1593273733228685]Thread #5: path not possible from node 23 to 3492
+[1593273733256648]Thread #2: searching database for a path from node 23 to node 3492
+[1593273733257143]Thread #2: no path in database, calculating 23->3492
+[1593273733258074]Thread #2: path not possible from node 23 to 3492
+[1593273733282475]Thread #7: searching database for a path from node 0 to node 321331
+[1593273733290217]Thread #7: no path in database, calculating 0->321331
+[1593273733290685]Thread #7: path not possible from node 0 to 321331
+[1593273733294139]Thread #9: searching database for a path from node 32 to node 5000
+[1593273733301537]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733304897]Thread #3: searching database for a path from node 0 to node 120
+[1593273733305295]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733305681]Thread #1: searching database for a path from node 0 to node 998
+[1593273733306013]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733306445]Thread #4: searching database for a path from node 32 to node 5000
+[1593273733306532]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733306735]Thread #0: searching database for a path from node 0 to node 10
+[1593273733306806]Thread #0: path found in database: 0->10
+[1593273733307629]Thread #8: searching database for a path from node 0 to node 120
+[1593273733307775]Thread #8: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733310201]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273733310905]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273733311014]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273733311106]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273733311196]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273733311281]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273733321249]Thread #2: searching database for a path from node 5000 to node 32
+[1593273733321316]Thread #2: no path in database, calculating 5000->32
+[1593273733321634]Thread #2: path not possible from node 5000 to 32
+[1593273733323158]Thread #4: searching database for a path from node 0 to node 120
+[1593273733323217]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733324345]Thread #0: searching database for a path from node 5000 to node 32
+[1593273733324405]Thread #0: no path in database, calculating 5000->32
+[1593273733324759]Thread #0: path not possible from node 5000 to 32
+[1593273733325164]Thread #6: searching database for a path from node 0 to node 10
+[1593273733325223]Thread #6: path found in database: 0->10
+[1593273733326119]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273733326232]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733326297]A connection has been delegated to thread id #8, system load 20.000000%
+[1593273733326356]A connection has been delegated to thread id #9, system load 20.000000%
+[1593273733326697]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273733326759]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273733326808]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273733326864]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273733326910]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273733328549]Thread #6: searching database for a path from node 32 to node 5000
+[1593273733328612]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733329926]Thread #5: searching database for a path from node 0 to node 998
+[1593273733329980]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733330107]A connection has been delegated to thread id #5, system load 20.000000%
+[1593273733330199]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273733330260]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733330310]A connection has been delegated to thread id #8, system load 20.000000%
+[1593273733330356]A connection has been delegated to thread id #9, system load 20.000000%
+[1593273733330435]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273733330485]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273733330532]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273733337921]Thread #6: searching database for a path from node 0 to node 10
+[1593273733337990]Thread #6: path found in database: 0->10
+[1593273733339294]Thread #7: searching database for a path from node 5000 to node 32
+[1593273733339371]Thread #7: no path in database, calculating 5000->32
+[1593273733339880]Thread #7: path not possible from node 5000 to 32
+[1593273733341306]Thread #7: searching database for a path from node 5000 to node 32
+[1593273733341404]Thread #7: no path in database, calculating 5000->32
+[1593273733341918]Thread #7: path not possible from node 5000 to 32
+[1593273733344026]Thread #8: searching database for a path from node 23 to node 3492
+[1593273733344291]Thread #8: no path in database, calculating 23->3492
+[1593273733345011]Thread #8: path not possible from node 23 to 3492
+[1593273733352572]Thread #2: searching database for a path from node 0 to node 120
+[1593273733352672]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733353621]Thread #2: searching database for a path from node 0 to node 120
+[1593273733353676]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733354474]Thread #4: searching database for a path from node 32 to node 5000
+[1593273733354521]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733355255]Thread #0: searching database for a path from node 0 to node 321331
+[1593273733355294]Thread #0: no path in database, calculating 0->321331
+[1593273733355321]Thread #0: path not possible from node 0 to 321331
+[1593273733356074]Thread #0: searching database for a path from node 0 to node 998
+[1593273733356119]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733356997]Thread #8: searching database for a path from node 0 to node 321331
+[1593273733357047]Thread #8: no path in database, calculating 0->321331
+[1593273733357085]Thread #8: path not possible from node 0 to 321331
+[1593273733360583]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273733360718]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273733361661]A connection has been delegated to thread id #5, system load 20.000000%
+[1593273733365606]Thread #1: searching database for a path from node 0 to node 998
+[1593273733381580]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733368457]A connection has been delegated to thread id #6, system load 30.000000%
+[1593273733385160]Thread #1: searching database for a path from node 0 to node 5
+[1593273733385341]Thread #1: path found in database: 0->5
+[1593273733388232]Thread #1: searching database for a path from node 5000 to node 32
+[1593273733390215]Thread #5: searching database for a path from node 23 to node 3492
+[1593273733390281]Thread #5: no path in database, calculating 23->3492
+[1593273733394258]Thread #5: path not possible from node 23 to 3492
+[1593273733394624]Thread #3: searching database for a path from node 0 to node 5
+[1593273733394679]Thread #3: path found in database: 0->5
+[1593273733395379]Thread #3: searching database for a path from node 0 to node 998
+[1593273733395422]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733396178]Thread #3: searching database for a path from node 0 to node 321331
+[1593273733396230]Thread #3: no path in database, calculating 0->321331
+[1593273733396256]Thread #3: path not possible from node 0 to 321331
+[1593273733396874]A connection has been delegated to thread id #7, system load 40.000000%
+[1593273733397061]A connection has been delegated to thread id #8, system load 40.000000%
+[1593273733406100]Thread #4: searching database for a path from node 0 to node 10
+[1593273733408802]Thread #4: path found in database: 0->10
+[1593273733409064]Thread #9: searching database for a path from node 0 to node 10
+[1593273733409152]Thread #9: path found in database: 0->10
+[1593273733413346]Thread #5: searching database for a path from node 32 to node 5000
+[1593273733413438]Thread #1: no path in database, calculating 5000->32
+[1593273733419529]Thread #8: searching database for a path from node 23 to node 3492
+[1593273733419598]Thread #8: no path in database, calculating 23->3492
+[1593273733420093]Thread #8: path not possible from node 23 to 3492
+[1593273733420306]Thread #5: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733421560]Thread #9: searching database for a path from node 0 to node 5
+[1593273733423160]Thread #1: path not possible from node 5000 to 32
+[1593273733423756]Thread #9: path found in database: 0->5
+[1593273733424967]Thread #7: searching database for a path from node 23 to node 3492
+[1593273733425081]Thread #7: no path in database, calculating 23->3492
+[1593273733425448]Thread #7: path not possible from node 23 to 3492
+[1593273733428280]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273733428516]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273733428672]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273733428812]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273733429021]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273733429227]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273733429453]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273733430007]Thread #6: searching database for a path from node 0 to node 10
+[1593273733430237]Thread #6: path found in database: 0->10
+[1593273733430712]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273733433010]Thread #2: searching database for a path from node 32 to node 5000
+[1593273733433089]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733434190]Thread #0: searching database for a path from node 0 to node 120
+[1593273733434294]Thread #0: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733439094]Thread #6: searching database for a path from node 5000 to node 32
+[1593273733439166]Thread #6: no path in database, calculating 5000->32
+[1593273733439444]Thread #6: path not possible from node 5000 to 32
+[1593273733442681]Thread #3: searching database for a path from node 0 to node 998
+[1593273733442785]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733443809]Thread #9: searching database for a path from node 0 to node 5
+[1593273733443873]Thread #9: path found in database: 0->5
+[1593273733445633]Thread #4: searching database for a path from node 0 to node 5
+[1593273733445697]Thread #4: path found in database: 0->5
+[1593273733454118]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733455089]A connection has been delegated to thread id #8, system load 20.000000%
+[1593273733460264]A connection has been delegated to thread id #9, system load 40.000000%
+[1593273733460458]A connection has been delegated to thread id #0, system load 40.000000%
+[1593273733468707]Thread #1: searching database for a path from node 0 to node 321331
+[1593273733471172]Thread #1: no path in database, calculating 0->321331
+[1593273733471244]Thread #1: path not possible from node 0 to 321331
+[1593273733471284]Thread #5: searching database for a path from node 0 to node 120
+[1593273733471335]Thread #5: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733471846]A connection has been delegated to thread id #1, system load 50.000000%
+[1593273733472018]A connection has been delegated to thread id #2, system load 50.000000%
+[1593273733474082]A connection has been delegated to thread id #3, system load 60.000000%
+[1593273733480992]Thread #8: searching database for a path from node 0 to node 998
+[1593273733481112]Thread #8: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733482111]Thread #7: searching database for a path from node 5000 to node 32
+[1593273733482195]Thread #7: no path in database, calculating 5000->32
+[1593273733486165]Thread #0: searching database for a path from node 23 to node 3492
+[1593273733486537]Thread #0: no path in database, calculating 23->3492
+[1593273733491482]Thread #0: path not possible from node 23 to 3492
+[1593273733484463]Thread #7: path not possible from node 5000 to 32
+[1593273733495238]Thread #2: searching database for a path from node 0 to node 321331
+[1593273733495295]Thread #2: no path in database, calculating 0->321331
+[1593273733495325]Thread #2: path not possible from node 0 to 321331
+[1593273733499282]A connection has been delegated to thread id #4, system load 40.000000%
+[1593273733502357]Thread #9: searching database for a path from node 0 to node 10
+[1593273733503092]Thread #9: path found in database: 0->10
+[1593273733503261]Thread #1: searching database for a path from node 32 to node 5000
+[1593273733503319]Thread #1: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733504978]Thread #3: searching database for a path from node 0 to node 5
+[1593273733505093]Thread #3: path found in database: 0->5
+[1593273733509438]Thread #4: searching database for a path from node 0 to node 998
+[1593273733509501]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733521210]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273733526615]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273733530630]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733531974]Thread #7: searching database for a path from node 32 to node 5000
+[1593273733532590]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733532669]Thread #6: searching database for a path from node 23 to node 3492
+[1593273733532829]Thread #6: no path in database, calculating 23->3492
+[1593273733533345]Thread #6: path not possible from node 23 to 3492
+[1593273733533886]Thread #5: searching database for a path from node 0 to node 120
+[1593273733533953]Thread #5: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733539775]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273733546286]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273733548474]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273733552318]A connection has been delegated to thread id #1, system load 30.000000%
+[1593273733553072]A connection has been delegated to thread id #2, system load 40.000000%
+[1593273733559543]A connection has been delegated to thread id #3, system load 50.000000%
+[1593273733561896]A connection has been delegated to thread id #4, system load 60.000000%
+[1593273733568141]Thread #8: searching database for a path from node 5000 to node 32
+[1593273733568855]Thread #8: no path in database, calculating 5000->32
+[1593273733569368]Thread #8: path not possible from node 5000 to 32
+[1593273733569484]Thread #1: searching database for a path from node 0 to node 5
+[1593273733569685]Thread #1: path found in database: 0->5
+[1593273733570460]Thread #3: searching database for a path from node 0 to node 120
+[1593273733571266]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733571590]Thread #9: searching database for a path from node 0 to node 998
+[1593273733571648]Thread #9: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733575540]Thread #4: searching database for a path from node 32 to node 5000
+[1593273733575646]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733576620]Thread #2: searching database for a path from node 5000 to node 32
+[1593273733576673]Thread #2: no path in database, calculating 5000->32
+[1593273733576983]Thread #2: path not possible from node 5000 to 32
+[1593273733581075]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273733582889]Thread #0: searching database for a path from node 0 to node 10
+[1593273733583005]Thread #0: path found in database: 0->10
+[1593273733587962]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273733589471]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733592196]Thread #6: searching database for a path from node 23 to node 3492
+[1593273733593145]Thread #6: no path in database, calculating 23->3492
+[1593273733594026]Thread #7: searching database for a path from node 0 to node 10
+[1593273733594589]Thread #6: path not possible from node 23 to 3492
+[1593273733594730]Thread #7: path found in database: 0->10
+[1593273733594880]Thread #5: searching database for a path from node 0 to node 321331
+[1593273733594929]Thread #5: no path in database, calculating 0->321331
+[1593273733594967]Thread #5: path not possible from node 0 to 321331
+[1593273733606436]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273733607984]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273733610813]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273733619771]A connection has been delegated to thread id #1, system load 30.000000%
+[1593273733622948]A connection has been delegated to thread id #2, system load 40.000000%
+[1593273733627868]A connection has been delegated to thread id #3, system load 50.000000%
+[1593273733629017]Thread #2: searching database for a path from node 0 to node 321331
+[1593273733629082]Thread #2: no path in database, calculating 0->321331
+[1593273733629112]Thread #2: path not possible from node 0 to 321331
+[1593273733629823]A connection has been delegated to thread id #4, system load 50.000000%
+[1593273733634346]A connection has been delegated to thread id #5, system load 60.000000%
+[1593273733635072]Thread #4: searching database for a path from node 0 to node 120
+[1593273733635132]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733637304]Thread #0: searching database for a path from node 0 to node 998
+[1593273733637396]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733639245]Thread #9: searching database for a path from node 0 to node 321331
+[1593273733640130]Thread #9: no path in database, calculating 0->321331
+[1593273733640197]Thread #9: path not possible from node 0 to 321331
+[1593273733640238]Thread #1: searching database for a path from node 5000 to node 32
+[1593273733640346]Thread #1: no path in database, calculating 5000->32
+[1593273733640904]Thread #1: path not possible from node 5000 to 32
+[1593273733642500]Thread #8: searching database for a path from node 0 to node 5
+[1593273733642585]Thread #8: path found in database: 0->5
+[1593273733647476]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273733648341]Thread #3: searching database for a path from node 32 to node 5000
+[1593273733648841]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733661723]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273733663188]Thread #5: searching database for a path from node 23 to node 3492
+[1593273733663275]Thread #5: no path in database, calculating 23->3492
+[1593273733668102]Thread #7: searching database for a path from node 0 to node 5
+[1593273733669054]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273733667289]Thread #5: path not possible from node 23 to 3492
+[1593273733671303]Thread #7: path found in database: 0->5
+[1593273733671400]Thread #6: searching database for a path from node 0 to node 10
+[1593273733671455]Thread #6: path found in database: 0->10
+[1593273733681087]Thread #8: searching database for a path from node 0 to node 998
+[1593273733681174]Thread #8: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733681529]A connection has been delegated to thread id #9, system load 0.000000%
+[1593273733693360]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273733695112]Thread #9: searching database for a path from node 5000 to node 32
+[1593273733695197]Thread #9: no path in database, calculating 5000->32
+[1593273733695585]Thread #9: path not possible from node 5000 to 32
+[1593273733700727]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273733701059]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273733701181]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273733708679]Thread #3: searching database for a path from node 32 to node 5000
+[1593273733708775]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733711024]A connection has been delegated to thread id #4, system load 30.000000%
+[1593273733712284]Thread #1: searching database for a path from node 23 to node 3492
+[1593273733714034]Thread #1: no path in database, calculating 23->3492
+[1593273733714101]Thread #2: searching database for a path from node 0 to node 321331
+[1593273733714510]Thread #1: path not possible from node 23 to 3492
+[1593273733714586]Thread #2: no path in database, calculating 0->321331
+[1593273733714661]Thread #0: searching database for a path from node 0 to node 120
+[1593273733714773]Thread #2: path not possible from node 0 to 321331
+[1593273733714924]Thread #0: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733718550]Thread #4: searching database for a path from node 0 to node 10
+[1593273733718625]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273733718714]Thread #4: path found in database: 0->10
+[1593273733723361]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273733727846]Thread #5: searching database for a path from node 0 to node 5
+[1593273733727937]Thread #5: path found in database: 0->5
+[1593273733731748]A connection has been delegated to thread id #7, system load 10.000000%
+[1593273733732513]A connection has been delegated to thread id #8, system load 20.000000%
+[1593273733738671]A connection has been delegated to thread id #9, system load 30.000000%
+[1593273733742486]A connection has been delegated to thread id #0, system load 40.000000%
+[1593273733750879]Thread #6: searching database for a path from node 0 to node 998
+[1593273733751535]Thread #8: searching database for a path from node 0 to node 120
+[1593273733751580]Thread #8: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733751704]Thread #6: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733752699]Thread #9: searching database for a path from node 23 to node 3492
+[1593273733752790]Thread #9: no path in database, calculating 23->3492
+[1593273733753244]Thread #9: path not possible from node 23 to 3492
+[1593273733755667]Thread #0: searching database for a path from node 0 to node 10
+[1593273733755793]Thread #0: path found in database: 0->10
+[1593273733774506]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273733774843]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273733778062]A connection has been delegated to thread id #3, system load 30.000000%
+[1593273733782848]Thread #7: searching database for a path from node 32 to node 5000
+[1593273733782915]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733785388]Thread #1: searching database for a path from node 0 to node 120
+[1593273733787374]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733787445]Thread #2: searching database for a path from node 5000 to node 32
+[1593273733787493]Thread #2: no path in database, calculating 5000->32
+[1593273733787771]Thread #2: path not possible from node 5000 to 32
+[1593273733793613]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273733795299]Thread #4: searching database for a path from node 0 to node 321331
+[1593273733795384]Thread #4: no path in database, calculating 0->321331
+[1593273733795437]Thread #4: path not possible from node 0 to 321331
+[1593273733802946]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273733804317]Thread #5: searching database for a path from node 0 to node 998
+[1593273733804477]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733806462]Thread #3: searching database for a path from node 0 to node 5
+[1593273733806548]Thread #3: path found in database: 0->5
+[1593273733810851]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273733813269]A connection has been delegated to thread id #7, system load 10.000000%
+[1593273733815723]Thread #6: searching database for a path from node 32 to node 5000
+[1593273733815823]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733819992]Thread #7: searching database for a path from node 5000 to node 32
+[1593273733820305]Thread #7: no path in database, calculating 5000->32
+[1593273733820862]Thread #7: path not possible from node 5000 to 32
+[1593273733825104]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273733834652]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273733836704]Thread #9: searching database for a path from node 23 to node 3492
+[1593273733836961]Thread #9: no path in database, calculating 23->3492
+[1593273733837721]Thread #9: path not possible from node 23 to 3492
+[1593273733838460]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273733844273]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273733845292]Thread #8: searching database for a path from node 0 to node 10
+[1593273733845389]Thread #8: path found in database: 0->10
+[1593273733847735]Thread #1: searching database for a path from node 0 to node 120
+[1593273733847812]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733849250]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273733861549]Thread #2: searching database for a path from node 0 to node 5
+[1593273733861655]Thread #2: path found in database: 0->5
+[1593273733866129]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273733872082]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273733874382]A connection has been delegated to thread id #5, system load 30.000000%
+[1593273733880929]Thread #5: searching database for a path from node 0 to node 998
+[1593273733881161]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733882883]A connection has been delegated to thread id #6, system load 30.000000%
+[1593273733890352]A connection has been delegated to thread id #7, system load 40.000000%
+[1593273733892417]Thread #7: searching database for a path from node 23 to node 3492
+[1593273733892506]Thread #7: no path in database, calculating 23->3492
+[1593273733892894]Thread #7: path not possible from node 23 to 3492
+[1593273733895107]A connection has been delegated to thread id #8, system load 40.000000%
+[1593273733896583]Thread #8: searching database for a path from node 0 to node 5
+[1593273733896722]Thread #8: path found in database: 0->5
+[1593273733898985]A connection has been delegated to thread id #9, system load 40.000000%
+[1593273733901347]Thread #9: searching database for a path from node 0 to node 10
+[1593273733901475]Thread #9: path found in database: 0->10
+[1593273733912324]Thread #3: searching database for a path from node 0 to node 321331
+[1593273733912416]Thread #3: no path in database, calculating 0->321331
+[1593273733912452]Thread #3: path not possible from node 0 to 321331
+[1593273733913960]Thread #0: searching database for a path from node 0 to node 321331
+[1593273733914041]Thread #0: no path in database, calculating 0->321331
+[1593273733914077]Thread #0: path not possible from node 0 to 321331
+[1593273733916973]Thread #4: searching database for a path from node 32 to node 5000
+[1593273733917086]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733918780]Thread #6: searching database for a path from node 5000 to node 32
+[1593273733918916]Thread #6: no path in database, calculating 5000->32
+[1593273733919310]Thread #6: path not possible from node 5000 to 32
+[1593273733934333]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273733934513]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273733944379]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273733947611]Thread #2: searching database for a path from node 0 to node 120
+[1593273733947769]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273733948886]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273733951698]Thread #3: searching database for a path from node 23 to node 3492
+[1593273733951828]Thread #3: no path in database, calculating 23->3492
+[1593273733952471]Thread #3: path not possible from node 23 to 3492
+[1593273733955056]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273733956604]Thread #4: searching database for a path from node 0 to node 5
+[1593273733956672]Thread #4: path found in database: 0->5
+[1593273733963745]Thread #0: searching database for a path from node 0 to node 321331
+[1593273733963836]Thread #0: no path in database, calculating 0->321331
+[1593273733963881]Thread #0: path not possible from node 0 to 321331
+[1593273733967507]Thread #1: searching database for a path from node 0 to node 998
+[1593273733967611]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733968417]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273733970579]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273733971773]Thread #5: searching database for a path from node 5000 to node 32
+[1593273733971849]Thread #5: no path in database, calculating 5000->32
+[1593273733972115]Thread #5: path not possible from node 5000 to 32
+[1593273733974051]Thread #6: searching database for a path from node 32 to node 5000
+[1593273733974112]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273733982968]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273733989645]A connection has been delegated to thread id #8, system load 10.000000%
+[1593273733992079]Thread #7: searching database for a path from node 0 to node 998
+[1593273733992202]Thread #7: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273733994362]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734001322]Thread #9: searching database for a path from node 32 to node 5000
+[1593273734001484]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734003366]Thread #8: searching database for a path from node 0 to node 10
+[1593273734003511]Thread #8: path found in database: 0->10
+[1593273734003984]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273734007066]Thread #0: searching database for a path from node 5000 to node 32
+[1593273734007161]Thread #0: no path in database, calculating 5000->32
+[1593273734007593]Thread #0: path not possible from node 5000 to 32
+[1593273734011233]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273734012497]Thread #1: searching database for a path from node 0 to node 120
+[1593273734012584]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734018784]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273734020018]Thread #2: searching database for a path from node 23 to node 3492
+[1593273734020106]Thread #2: no path in database, calculating 23->3492
+[1593273734020417]Thread #2: path not possible from node 23 to 3492
+[1593273734029324]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273734042287]Thread #3: searching database for a path from node 0 to node 10
+[1593273734042463]Thread #3: path found in database: 0->10
+[1593273734051246]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273734055274]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273734057569]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734058940]Thread #4: searching database for a path from node 0 to node 120
+[1593273734059029]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734060128]Thread #5: searching database for a path from node 0 to node 998
+[1593273734061131]Thread #6: searching database for a path from node 0 to node 5
+[1593273734061182]Thread #6: path found in database: 0->5
+[1593273734061340]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734061756]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273734067447]A connection has been delegated to thread id #8, system load 10.000000%
+[1593273734069897]A connection has been delegated to thread id #9, system load 20.000000%
+[1593273734070746]A connection has been delegated to thread id #0, system load 30.000000%
+[1593273734072095]A connection has been delegated to thread id #1, system load 40.000000%
+[1593273734077122]A connection has been delegated to thread id #2, system load 50.000000%
+[1593273734088496]Thread #7: searching database for a path from node 5000 to node 32
+[1593273734088572]Thread #7: no path in database, calculating 5000->32
+[1593273734088861]Thread #7: path not possible from node 5000 to 32
+[1593273734089448]Thread #8: searching database for a path from node 23 to node 3492
+[1593273734089494]Thread #8: no path in database, calculating 23->3492
+[1593273734089753]Thread #8: path not possible from node 23 to 3492
+[1593273734090384]Thread #9: searching database for a path from node 32 to node 5000
+[1593273734090448]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734091933]Thread #1: searching database for a path from node 0 to node 321331
+[1593273734092151]Thread #1: no path in database, calculating 0->321331
+[1593273734092202]Thread #1: path not possible from node 0 to 321331
+[1593273734096007]Thread #0: searching database for a path from node 0 to node 10
+[1593273734096108]Thread #0: path found in database: 0->10
+[1593273734097062]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273734097916]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273734099267]Thread #3: searching database for a path from node 0 to node 321331
+[1593273734099355]Thread #3: no path in database, calculating 0->321331
+[1593273734099399]Thread #3: path not possible from node 0 to 321331
+[1593273734099452]A connection has been delegated to thread id #5, system load 30.000000%
+[1593273734103287]Thread #4: searching database for a path from node 0 to node 5
+[1593273734103383]Thread #4: path found in database: 0->5
+[1593273734104491]Thread #2: searching database for a path from node 0 to node 998
+[1593273734104557]Thread #2: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734105537]Thread #5: searching database for a path from node 0 to node 120
+[1593273734105598]Thread #5: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734107119]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273734108248]A connection has been delegated to thread id #7, system load 10.000000%
+[1593273734110950]Thread #7: searching database for a path from node 5000 to node 32
+[1593273734111050]Thread #7: no path in database, calculating 5000->32
+[1593273734111540]Thread #7: path not possible from node 5000 to 32
+[1593273734117802]Thread #6: searching database for a path from node 32 to node 5000
+[1593273734117879]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734118055]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273734118753]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734123440]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273734127172]A connection has been delegated to thread id #1, system load 30.000000%
+[1593273734131358]Thread #8: searching database for a path from node 0 to node 321331
+[1593273734131428]Thread #8: no path in database, calculating 0->321331
+[1593273734131458]Thread #8: path not possible from node 0 to 321331
+[1593273734132055]Thread #9: searching database for a path from node 32 to node 5000
+[1593273734132098]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734135949]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273734140063]Thread #1: searching database for a path from node 5000 to node 32
+[1593273734140161]Thread #1: no path in database, calculating 5000->32
+[1593273734140642]Thread #1: path not possible from node 5000 to 32
+[1593273734143566]Thread #0: searching database for a path from node 23 to node 3492
+[1593273734143656]Thread #0: no path in database, calculating 23->3492
+[1593273734144070]Thread #0: path not possible from node 23 to 3492
+[1593273734151452]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273734152924]Thread #3: searching database for a path from node 0 to node 5
+[1593273734153008]Thread #3: path found in database: 0->5
+[1593273734153676]Thread #2: searching database for a path from node 0 to node 120
+[1593273734153723]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734154508]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273734154938]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273734155450]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734156482]Thread #4: searching database for a path from node 0 to node 998
+[1593273734156540]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734157311]Thread #5: searching database for a path from node 0 to node 10
+[1593273734157373]Thread #5: path found in database: 0->10
+[1593273734157975]Thread #6: searching database for a path from node 23 to node 3492
+[1593273734158016]Thread #6: no path in database, calculating 23->3492
+[1593273734158294]Thread #6: path not possible from node 23 to 3492
+[1593273734164990]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273734165226]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273734175479]Thread #7: searching database for a path from node 0 to node 321331
+[1593273734175594]A connection has been delegated to thread id #9, system load 20.000000%
+[1593273734176350]Thread #7: no path in database, calculating 0->321331
+[1593273734176443]Thread #7: path not possible from node 0 to 321331
+[1593273734178367]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273734181299]A connection has been delegated to thread id #1, system load 30.000000%
+[1593273734189515]Thread #9: searching database for a path from node 0 to node 5
+[1593273734189597]Thread #9: path found in database: 0->5
+[1593273734192261]Thread #0: searching database for a path from node 0 to node 120
+[1593273734192358]Thread #0: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734193441]Thread #8: searching database for a path from node 0 to node 10
+[1593273734193514]A connection has been delegated to thread id #2, system load 20.000000%
+[1593273734193656]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273734195740]Thread #8: path found in database: 0->10
+[1593273734195961]Thread #2: searching database for a path from node 32 to node 5000
+[1593273734196018]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734197236]Thread #3: searching database for a path from node 23 to node 3492
+[1593273734197314]Thread #3: no path in database, calculating 23->3492
+[1593273734197757]Thread #3: path not possible from node 23 to 3492
+[1593273734199314]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273734201199]Thread #4: searching database for a path from node 0 to node 10
+[1593273734201267]Thread #4: path found in database: 0->10
+[1593273734203725]Thread #1: searching database for a path from node 5000 to node 32
+[1593273734203808]Thread #1: no path in database, calculating 5000->32
+[1593273734204225]Thread #1: path not possible from node 5000 to 32
+[1593273734206167]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273734211522]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273734215161]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273734226509]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273734229096]A connection has been delegated to thread id #9, system load 30.000000%
+[1593273734229842]A connection has been delegated to thread id #0, system load 40.000000%
+[1593273734240105]Thread #5: searching database for a path from node 0 to node 10
+[1593273734240180]Thread #5: path found in database: 0->10
+[1593273734240734]Thread #6: searching database for a path from node 0 to node 321331
+[1593273734240774]Thread #6: no path in database, calculating 0->321331
+[1593273734240800]Thread #6: path not possible from node 0 to 321331
+[1593273734241397]Thread #0: searching database for a path from node 0 to node 998
+[1593273734241440]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734242251]Thread #8: searching database for a path from node 23 to node 3492
+[1593273734242301]Thread #8: no path in database, calculating 23->3492
+[1593273734242675]Thread #8: path not possible from node 23 to 3492
+[1593273734243862]Thread #7: searching database for a path from node 32 to node 5000
+[1593273734243916]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734248227]Thread #9: searching database for a path from node 0 to node 120
+[1593273734248762]Thread #9: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734251820]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273734255045]Thread #1: searching database for a path from node 5000 to node 32
+[1593273734255110]Thread #1: no path in database, calculating 5000->32
+[1593273734255401]Thread #1: path not possible from node 5000 to 32
+[1593273734255520]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273734255924]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273734256220]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273734256656]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273734260883]A connection has been delegated to thread id #6, system load 40.000000%
+[1593273734262199]A connection has been delegated to thread id #7, system load 50.000000%
+[1593273734266605]A connection has been delegated to thread id #8, system load 60.000000%
+[1593273734267248]Thread #2: searching database for a path from node 0 to node 5
+[1593273734267320]Thread #2: path found in database: 0->5
+[1593273734271243]A connection has been delegated to thread id #9, system load 60.000000%
+[1593273734275752]Thread #4: searching database for a path from node 0 to node 998
+[1593273734275820]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734276448]Thread #3: searching database for a path from node 0 to node 120
+[1593273734276503]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734281750]A connection has been delegated to thread id #0, system load 50.000000%
+[1593273734283492]A connection has been delegated to thread id #1, system load 60.000000%
+[1593273734285045]Thread #1: searching database for a path from node 32 to node 5000
+[1593273734285123]Thread #1: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734287557]A connection has been delegated to thread id #2, system load 60.000000%
+[1593273734293948]A connection has been delegated to thread id #3, system load 70.000000%
+[1593273734297915]Thread #2: searching database for a path from node 5000 to node 32
+[1593273734298122]Thread #2: no path in database, calculating 5000->32
+[1593273734299094]Thread #2: path not possible from node 5000 to 32
+[1593273734300516]Thread #5: searching database for a path from node 23 to node 3492
+[1593273734300603]Thread #5: no path in database, calculating 23->3492
+[1593273734301025]Thread #5: path not possible from node 23 to 3492
+[1593273734304637]A connection has been delegated to thread id #4, system load 60.000000%
+[1593273734311155]Thread #8: searching database for a path from node 0 to node 321331
+[1593273734311260]Thread #8: no path in database, calculating 0->321331
+[1593273734311315]Thread #8: path not possible from node 0 to 321331
+[1593273734312191]Thread #6: searching database for a path from node 0 to node 321331
+[1593273734312276]Thread #6: no path in database, calculating 0->321331
+[1593273734312308]Thread #6: path not possible from node 0 to 321331
+[1593273734316506]Thread #7: searching database for a path from node 0 to node 10
+[1593273734316644]Thread #7: path found in database: 0->10
+[1593273734318007]Thread #0: searching database for a path from node 0 to node 5
+[1593273734318086]Thread #0: path found in database: 0->5
+[1593273734325296]Thread #9: searching database for a path from node 0 to node 998
+[1593273734325386]Thread #9: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734330038]A connection has been delegated to thread id #5, system load 20.000000%
+[1593273734333439]Thread #3: searching database for a path from node 5000 to node 32
+[1593273734333531]Thread #3: no path in database, calculating 5000->32
+[1593273734333812]Thread #3: path not possible from node 5000 to 32
+[1593273734333978]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734344105]A connection has been delegated to thread id #7, system load 30.000000%
+[1593273734344464]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273734346253]Thread #6: searching database for a path from node 0 to node 5
+[1593273734346333]Thread #6: path found in database: 0->5
+[1593273734347185]Thread #8: searching database for a path from node 0 to node 120
+[1593273734347256]Thread #8: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734348180]Thread #5: searching database for a path from node 32 to node 5000
+[1593273734348248]Thread #5: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734357018]A connection has been delegated to thread id #9, system load 20.000000%
+[1593273734358356]Thread #7: searching database for a path from node 23 to node 3492
+[1593273734358473]Thread #7: no path in database, calculating 23->3492
+[1593273734358926]Thread #7: path not possible from node 23 to 3492
+[1593273734362484]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273734362683]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273734363820]A connection has been delegated to thread id #2, system load 40.000000%
+[1593273734366575]A connection has been delegated to thread id #3, system load 50.000000%
+[1593273734387643]Thread #9: searching database for a path from node 0 to node 321331
+[1593273734388395]Thread #3: searching database for a path from node 5000 to node 32
+[1593273734388464]Thread #3: no path in database, calculating 5000->32
+[1593273734388810]Thread #3: path not possible from node 5000 to 32
+[1593273734389063]Thread #9: no path in database, calculating 0->321331
+[1593273734389109]Thread #9: path not possible from node 0 to 321331
+[1593273734390677]Thread #1: searching database for a path from node 0 to node 120
+[1593273734390777]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734397937]Thread #2: searching database for a path from node 0 to node 5
+[1593273734398072]Thread #2: path found in database: 0->5
+[1593273734409860]Thread #0: searching database for a path from node 32 to node 5000
+[1593273734409953]Thread #0: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734425262]Thread #4: searching database for a path from node 0 to node 998
+[1593273734425369]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734425602]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273734425772]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273734427113]Thread #4: searching database for a path from node 0 to node 5
+[1593273734427290]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273734427425]A connection has been delegated to thread id #7, system load 10.000000%
+[1593273734427530]A connection has been delegated to thread id #8, system load 10.000000%
+[1593273734427627]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734427721]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273734427813]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273734435155]Thread #4: path found in database: 0->5
+[1593273734435308]Thread #1: searching database for a path from node 0 to node 998
+[1593273734435398]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734436720]Thread #8: searching database for a path from node 0 to node 10
+[1593273734436794]Thread #8: path found in database: 0->10
+[1593273734440516]Thread #7: searching database for a path from node 0 to node 998
+[1593273734440590]Thread #7: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734440923]Thread #6: searching database for a path from node 0 to node 10
+[1593273734440993]Thread #6: path found in database: 0->10
+[1593273734442975]Thread #5: searching database for a path from node 23 to node 3492
+[1593273734443076]Thread #5: no path in database, calculating 23->3492
+[1593273734443552]Thread #5: path not possible from node 23 to 3492
+[1593273734448033]Thread #0: searching database for a path from node 0 to node 321331
+[1593273734448145]Thread #0: no path in database, calculating 0->321331
+[1593273734448207]Thread #0: path not possible from node 0 to 321331
+[1593273734450215]Thread #9: searching database for a path from node 0 to node 120
+[1593273734450314]Thread #9: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734451560]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273734452319]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273734459972]A connection has been delegated to thread id #4, system load 20.000000%
+[1593273734462289]A connection has been delegated to thread id #5, system load 20.000000%
+[1593273734474038]Thread #2: searching database for a path from node 32 to node 5000
+[1593273734474334]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734477954]Thread #3: searching database for a path from node 23 to node 3492
+[1593273734478053]Thread #3: no path in database, calculating 23->3492
+[1593273734478549]Thread #3: path not possible from node 23 to 3492
+[1593273734485005]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734486542]Thread #6: searching database for a path from node 0 to node 321331
+[1593273734486717]Thread #6: no path in database, calculating 0->321331
+[1593273734486772]Thread #6: path not possible from node 0 to 321331
+[1593273734487515]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273734490462]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273734491760]Thread #7: searching database for a path from node 0 to node 120
+[1593273734491849]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734496448]Thread #4: searching database for a path from node 5000 to node 32
+[1593273734496795]Thread #4: no path in database, calculating 5000->32
+[1593273734497513]Thread #4: path not possible from node 5000 to 32
+[1593273734500760]Thread #5: searching database for a path from node 0 to node 10
+[1593273734500902]Thread #5: path found in database: 0->10
+[1593273734501880]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734508675]Thread #9: searching database for a path from node 0 to node 998
+[1593273734508754]Thread #9: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734512041]Thread #8: searching database for a path from node 0 to node 5
+[1593273734512153]Thread #8: path found in database: 0->5
+[1593273734518817]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273734526288]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273734527699]Thread #1: searching database for a path from node 5000 to node 32
+[1593273734527802]Thread #1: no path in database, calculating 5000->32
+[1593273734528804]Thread #1: path not possible from node 5000 to 32
+[1593273734529953]Thread #0: searching database for a path from node 32 to node 5000
+[1593273734530044]Thread #0: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734542086]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273734549363]A connection has been delegated to thread id #3, system load 10.000000%
+[1593273734554824]Thread #2: searching database for a path from node 23 to node 3492
+[1593273734554929]Thread #2: no path in database, calculating 23->3492
+[1593273734555409]Thread #2: path not possible from node 23 to 3492
+[1593273734561966]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273734566209]A connection has been delegated to thread id #5, system load 20.000000%
+[1593273734566594]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734567659]Thread #3: searching database for a path from node 0 to node 10
+[1593273734568540]Thread #3: path found in database: 0->10
+[1593273734579781]A connection has been delegated to thread id #7, system load 30.000000%
+[1593273734589163]A connection has been delegated to thread id #8, system load 40.000000%
+[1593273734589849]A connection has been delegated to thread id #9, system load 40.000000%
+[1593273734592457]Thread #8: searching database for a path from node 0 to node 998
+[1593273734592564]Thread #8: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734593809]Thread #9: searching database for a path from node 0 to node 10
+[1593273734593907]Thread #9: path found in database: 0->10
+[1593273734597854]A connection has been delegated to thread id #0, system load 40.000000%
+[1593273734599494]Thread #0: searching database for a path from node 0 to node 5
+[1593273734599587]Thread #0: path found in database: 0->5
+[1593273734605389]Thread #7: searching database for a path from node 0 to node 120
+[1593273734605469]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734605646]A connection has been delegated to thread id #1, system load 30.000000%
+[1593273734618016]A connection has been delegated to thread id #2, system load 40.000000%
+[1593273734624673]A connection has been delegated to thread id #3, system load 50.000000%
+[1593273734631777]Thread #1: searching database for a path from node 0 to node 5
+[1593273734631876]Thread #1: path found in database: 0->5
+[1593273734632935]Thread #6: searching database for a path from node 32 to node 5000
+[1593273734633019]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734634240]Thread #4: searching database for a path from node 0 to node 321331
+[1593273734634338]Thread #4: no path in database, calculating 0->321331
+[1593273734634497]Thread #4: path not possible from node 0 to 321331
+[1593273734635615]Thread #5: searching database for a path from node 0 to node 321331
+[1593273734635770]Thread #5: no path in database, calculating 0->321331
+[1593273734635830]Thread #5: path not possible from node 0 to 321331
+[1593273734639465]Thread #2: searching database for a path from node 23 to node 3492
+[1593273734639547]Thread #2: no path in database, calculating 23->3492
+[1593273734640023]Thread #2: path not possible from node 23 to 3492
+[1593273734656250]Thread #3: searching database for a path from node 5000 to node 32
+[1593273734656335]Thread #3: no path in database, calculating 5000->32
+[1593273734656745]Thread #3: path not possible from node 5000 to 32
+[1593273734662836]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273734668164]Thread #4: searching database for a path from node 0 to node 120
+[1593273734669049]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734672216]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273734673699]Thread #5: searching database for a path from node 5000 to node 32
+[1593273734673972]Thread #5: no path in database, calculating 5000->32
+[1593273734674546]Thread #5: path not possible from node 5000 to 32
+[1593273734682865]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273734689973]Thread #6: searching database for a path from node 23 to node 3492
+[1593273734691114]A connection has been delegated to thread id #7, system load 10.000000%
+[1593273734693127]Thread #6: no path in database, calculating 23->3492
+[1593273734693726]Thread #6: path not possible from node 23 to 3492
+[1593273734695710]A connection has been delegated to thread id #8, system load 10.000000%
+[1593273734697408]Thread #8: searching database for a path from node 0 to node 998
+[1593273734697478]Thread #8: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734713104]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734714624]Thread #7: searching database for a path from node 32 to node 5000
+[1593273734714725]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734719061]A connection has been delegated to thread id #0, system load 10.000000%
+[1593273734720958]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273734722229]A connection has been delegated to thread id #2, system load 30.000000%
+[1593273734725245]A connection has been delegated to thread id #3, system load 40.000000%
+[1593273734732977]A connection has been delegated to thread id #4, system load 50.000000%
+[1593273734734579]Thread #4: searching database for a path from node 0 to node 321331
+[1593273734734677]Thread #4: no path in database, calculating 0->321331
+[1593273734734717]Thread #4: path not possible from node 0 to 321331
+[1593273734735752]A connection has been delegated to thread id #5, system load 50.000000%
+[1593273734743084]Thread #9: searching database for a path from node 0 to node 10
+[1593273734743261]Thread #9: path found in database: 0->10
+[1593273734745380]A connection has been delegated to thread id #6, system load 50.000000%
+[1593273734747254]Thread #5: searching database for a path from node 32 to node 5000
+[1593273734747345]Thread #5: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734757093]Thread #1: searching database for a path from node 0 to node 998
+[1593273734757195]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734761555]Thread #2: searching database for a path from node 5000 to node 32
+[1593273734761684]Thread #2: no path in database, calculating 5000->32
+[1593273734762207]Thread #2: path not possible from node 5000 to 32
+[1593273734763958]Thread #0: searching database for a path from node 0 to node 5
+[1593273734764078]Thread #0: path found in database: 0->5
+[1593273734769504]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273734772015]Thread #7: searching database for a path from node 23 to node 3492
+[1593273734772117]Thread #7: no path in database, calculating 23->3492
+[1593273734772529]Thread #7: path not possible from node 23 to 3492
+[1593273734773568]Thread #6: searching database for a path from node 0 to node 120
+[1593273734773689]Thread #6: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734777597]A connection has been delegated to thread id #8, system load 10.000000%
+[1593273734779620]Thread #3: searching database for a path from node 0 to node 10
+[1593273734779751]Thread #3: path found in database: 0->10
+[1593273734782310]Thread #8: searching database for a path from node 0 to node 321331
+[1593273734782432]A connection has been delegated to thread id #9, system load 10.000000%
+[1593273734782523]Thread #8: no path in database, calculating 0->321331
+[1593273734782573]Thread #8: path not possible from node 0 to 321331
+[1593273734796728]Thread #9: searching database for a path from node 0 to node 5
+[1593273734796873]Thread #9: path found in database: 0->5
+[1593273734798212]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273734801751]A connection has been delegated to thread id #1, system load 10.000000%
+[1593273734802653]Thread #1: searching database for a path from node 32 to node 5000
+[1593273734802750]Thread #1: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734808583]A connection has been delegated to thread id #2, system load 10.000000%
+[1593273734810450]A connection has been delegated to thread id #3, system load 20.000000%
+[1593273734815321]Thread #0: searching database for a path from node 5000 to node 32
+[1593273734815406]Thread #0: no path in database, calculating 5000->32
+[1593273734815870]Thread #0: path not possible from node 5000 to 32
+[1593273734818078]Thread #3: searching database for a path from node 0 to node 120
+[1593273734818157]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734834272]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273734840831]Thread #2: searching database for a path from node 23 to node 3492
+[1593273734840955]Thread #2: no path in database, calculating 23->3492
+[1593273734841239]Thread #2: path not possible from node 23 to 3492
+[1593273734842484]A connection has been delegated to thread id #5, system load 10.000000%
+[1593273734850457]A connection has been delegated to thread id #6, system load 20.000000%
+[1593273734854779]A connection has been delegated to thread id #7, system load 30.000000%
+[1593273734857193]A connection has been delegated to thread id #8, system load 30.000000%
+[1593273734859249]Thread #7: searching database for a path from node 0 to node 998
+[1593273734859311]Thread #7: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734859644]A connection has been delegated to thread id #9, system load 30.000000%
+[1593273734864585]A connection has been delegated to thread id #0, system load 50.000000%
+[1593273734866507]Thread #5: searching database for a path from node 0 to node 998
+[1593273734866575]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273734867434]Thread #9: searching database for a path from node 0 to node 120
+[1593273734867524]Thread #9: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273734868541]A connection has been delegated to thread id #1, system load 40.000000%
+[1593273734872808]Thread #1: searching database for a path from node 0 to node 321331
+[1593273734872916]Thread #1: no path in database, calculating 0->321331
+[1593273734872970]Thread #1: path not possible from node 0 to 321331
+[1593273734880028]A connection has been delegated to thread id #2, system load 40.000000%
+[1593273734881746]Thread #2: searching database for a path from node 0 to node 321331
+[1593273734881999]Thread #2: no path in database, calculating 0->321331
+[1593273734882092]Thread #2: path not possible from node 0 to 321331
+[1593273734883870]Thread #4: searching database for a path from node 5000 to node 32
+[1593273734883967]Thread #4: no path in database, calculating 5000->32
+[1593273734884404]Thread #4: path not possible from node 5000 to 32
+[1593273734885717]A connection has been delegated to thread id #3, system load 30.000000%
+[1593273734888019]Thread #0: searching database for a path from node 0 to node 10
+[1593273734888152]Thread #0: path found in database: 0->10
+[1593273734889654]Thread #3: searching database for a path from node 0 to node 10
+[1593273734889759]Thread #3: path found in database: 0->10
+[1593273734892346]Thread #6: searching database for a path from node 32 to node 5000
+[1593273734892440]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273734899295]A connection has been delegated to thread id #4, system load 10.000000%
+[1593273734900415]Thread #8: searching database for a path from node 23 to node 3492
+[1593273734900480]Thread #8: no path in database, calculating 23->3492
+[1593273734900770]Thread #8: path not possible from node 23 to 3492
+[1593273734908067]Thread #4: searching database for a path from node 0 to node 5
+[1593273734908159]Thread #4: path found in database: 0->5
+[1593273734928898]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273734932525]A connection has been delegated to thread id #6, system load 10.000000%
+[1593273734939653]A connection has been delegated to thread id #7, system load 20.000000%
+[1593273734941240]A connection has been delegated to thread id #8, system load 20.000000%
+[1593273734944716]A connection has been delegated to thread id #9, system load 40.000000%
+[1593273734950491]A connection has been delegated to thread id #0, system load 50.000000%
+[1593273734957213]A connection has been delegated to thread id #1, system load 60.000000%
+[1593273734960869]A connection has been delegated to thread id #2, system load 70.000000%
+[1593273734968420]A connection has been delegated to thread id #3, system load 80.000000%
+[1593273734969969]System load 80.000000%,pool extended to 12 threads
+[1593273735079310]Thread #6: searching database for a path from node 0 to node 120
+[1593273735079427]Thread #6: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735080283]Thread #7: searching database for a path from node 0 to node 120
+[1593273735080360]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735081005]Thread #5: searching database for a path from node 0 to node 10
+[1593273735081059]Thread #5: path found in database: 0->10
+[1593273735085841]Thread #0: searching database for a path from node 32 to node 5000
+[1593273735158839]Thread #10: Waiting for the connection.
+[1593273735164834]Thread #0: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735165678]Thread #9: searching database for a path from node 5000 to node 32
+[1593273735169991]Thread #9: no path in database, calculating 5000->32
+[1593273735170547]Thread #9: path not possible from node 5000 to 32
+[1593273735170800]Thread #2: searching database for a path from node 0 to node 5
+[1593273735170863]Thread #2: path found in database: 0->5
+[1593273735174538]Thread #1: searching database for a path from node 0 to node 998
+[1593273735174639]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735174826]Thread #3: searching database for a path from node 23 to node 3492
+[1593273735174986]Thread #3: no path in database, calculating 23->3492
+[1593273735175460]Thread #3: path not possible from node 23 to 3492
+[1593273735179375]Thread #8: searching database for a path from node 0 to node 321331
+[1593273735179844]Thread #8: no path in database, calculating 0->321331
+[1593273735180155]Thread #8: path not possible from node 0 to 321331
+[1593273735185762]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273735185934]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273735186014]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273735186090]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273735186205]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273735186282]A connection has been delegated to thread id #9, system load 0.000000%
+[1593273735186355]A connection has been delegated to thread id #10, system load 0.000000%
+[1593273735186487]A connection has been delegated to thread id #11, system load 0.000000%
+[1593273735186550]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273735187009]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273735187206]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273735187366]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273735187495]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273735187592]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273735187690]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273735187823]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273735187918]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273735187981]A connection has been delegated to thread id #9, system load 0.000000%
+[1593273735188022]A connection has been delegated to thread id #10, system load 0.000000%
+[1593273735188061]A connection has been delegated to thread id #11, system load 0.000000%
+[1593273735188100]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273735188139]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273735188179]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273735188864]Thread #1: searching database for a path from node 0 to node 5
+[1593273735188904]Thread #1: path found in database: 0->5
+[1593273735189797]Thread #1: searching database for a path from node 23 to node 3492
+[1593273735189867]Thread #1: no path in database, calculating 23->3492
+[1593273735190297]Thread #1: path not possible from node 23 to 3492
+[1593273735197196]Thread #6: searching database for a path from node 23 to node 3492
+[1593273735217617]Thread #6: no path in database, calculating 23->3492
+[1593273735218158]Thread #6: path not possible from node 23 to 3492
+[1593273735214470]A connection has been delegated to thread id #3, system load 58.333333%
+[1593273735216153]Thread #11: Waiting for the connection.
+[1593273735224541]Thread #6: searching database for a path from node 0 to node 998
+[1593273735241565]Thread #6: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735241878]Thread #5: searching database for a path from node 32 to node 5000
+[1593273735241972]Thread #5: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735246975]Thread #4: searching database for a path from node 0 to node 998
+[1593273735247081]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735251194]Thread #0: searching database for a path from node 5000 to node 32
+[1593273735251291]Thread #0: no path in database, calculating 5000->32
+[1593273735251757]Thread #0: path not possible from node 5000 to 32
+[1593273735252762]Thread #0: searching database for a path from node 0 to node 321331
+[1593273735252851]Thread #0: no path in database, calculating 0->321331
+[1593273735252884]Thread #0: path not possible from node 0 to 321331
+[1593273735253023]Thread #10: searching database for a path from node 0 to node 998
+[1593273735253651]Thread #10: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735263112]Thread #10: searching database for a path from node 0 to node 120
+[1593273735269685]Thread #7: searching database for a path from node 0 to node 10
+[1593273735269742]Thread #7: path found in database: 0->10
+[1593273735271915]Thread #7: searching database for a path from node 32 to node 5000
+[1593273735272095]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735278910]Thread #9: searching database for a path from node 0 to node 321331
+[1593273735279008]Thread #9: no path in database, calculating 0->321331
+[1593273735279059]Thread #9: path not possible from node 0 to 321331
+[1593273735281419]Thread #9: searching database for a path from node 0 to node 5
+[1593273735281503]Thread #10: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735284954]Thread #9: path found in database: 0->5
+[1593273735285124]Thread #8: searching database for a path from node 5000 to node 32
+[1593273735285177]Thread #8: no path in database, calculating 5000->32
+[1593273735285465]Thread #8: path not possible from node 5000 to 32
+[1593273735294951]Thread #8: searching database for a path from node 0 to node 10
+[1593273735296192]Thread #8: path found in database: 0->10
+[1593273735296634]Thread #5: searching database for a path from node 0 to node 321331
+[1593273735296711]Thread #5: no path in database, calculating 0->321331
+[1593273735296753]Thread #5: path not possible from node 0 to 321331
+[1593273735296939]Thread #3: searching database for a path from node 0 to node 10
+[1593273735297009]Thread #3: path found in database: 0->10
+[1593273735297742]Thread #3: searching database for a path from node 0 to node 120
+[1593273735297798]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735297931]Thread #2: searching database for a path from node 23 to node 3492
+[1593273735297990]Thread #2: no path in database, calculating 23->3492
+[1593273735298487]Thread #2: path not possible from node 23 to 3492
+[1593273735299847]Thread #2: searching database for a path from node 0 to node 5
+[1593273735299927]Thread #2: path found in database: 0->5
+[1593273735300906]Thread #4: searching database for a path from node 32 to node 5000
+[1593273735301019]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735301983]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273735303413]A connection has been delegated to thread id #5, system load 8.333333%
+[1593273735303641]A connection has been delegated to thread id #6, system load 8.333333%
+[1593273735303964]A connection has been delegated to thread id #7, system load 8.333333%
+[1593273735304212]A connection has been delegated to thread id #8, system load 8.333333%
+[1593273735304513]A connection has been delegated to thread id #9, system load 8.333333%
+[1593273735306970]Thread #6: searching database for a path from node 0 to node 10
+[1593273735307069]Thread #6: path found in database: 0->10
+[1593273735308202]Thread #7: searching database for a path from node 32 to node 5000
+[1593273735308282]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735309429]Thread #4: searching database for a path from node 0 to node 998
+[1593273735309508]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735318513]Thread #5: searching database for a path from node 5000 to node 32
+[1593273735318611]Thread #5: no path in database, calculating 5000->32
+[1593273735318745]A connection has been delegated to thread id #10, system load 16.666667%
+[1593273735318926]Thread #11: searching database for a path from node 0 to node 120
+[1593273735318969]Thread #11: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735319374]A connection has been delegated to thread id #11, system load 16.666667%
+[1593273735322290]Thread #10: searching database for a path from node 0 to node 120
+[1593273735326611]Thread #10: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735322543]A connection has been delegated to thread id #0, system load 25.000000%
+[1593273735328427]Thread #8: searching database for a path from node 23 to node 3492
+[1593273735328782]Thread #5: path not possible from node 5000 to 32
+[1593273735329180]Thread #9: searching database for a path from node 0 to node 321331
+[1593273735329227]Thread #9: no path in database, calculating 0->321331
+[1593273735329254]Thread #9: path not possible from node 0 to 321331
+[1593273735329357]Thread #8: no path in database, calculating 23->3492
+[1593273735329637]Thread #8: path not possible from node 23 to 3492
+[1593273735330546]A connection has been delegated to thread id #1, system load 8.333333%
+[1593273735331825]Thread #1: searching database for a path from node 0 to node 5
+[1593273735331904]Thread #1: path found in database: 0->5
+[1593273735332744]Thread #0: searching database for a path from node 0 to node 998
+[1593273735332837]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735336126]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273735339104]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273735340215]Thread #2: searching database for a path from node 0 to node 5
+[1593273735340283]Thread #2: path found in database: 0->5
+[1593273735341498]Thread #3: searching database for a path from node 0 to node 120
+[1593273735341592]Thread #3: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735341850]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273735354272]Thread #4: searching database for a path from node 0 to node 10
+[1593273735354370]Thread #4: path found in database: 0->10
+[1593273735355387]A connection has been delegated to thread id #5, system load 8.333333%
+[1593273735356587]A connection has been delegated to thread id #6, system load 8.333333%
+[1593273735357545]Thread #5: searching database for a path from node 23 to node 3492
+[1593273735357609]Thread #5: no path in database, calculating 23->3492
+[1593273735357882]Thread #5: path not possible from node 23 to 3492
+[1593273735358588]A connection has been delegated to thread id #7, system load 8.333333%
+[1593273735358772]A connection has been delegated to thread id #8, system load 8.333333%
+[1593273735360011]Thread #7: searching database for a path from node 32 to node 5000
+[1593273735360111]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735360271]A connection has been delegated to thread id #9, system load 25.000000%
+[1593273735360430]A connection has been delegated to thread id #10, system load 25.000000%
+[1593273735360563]Thread #11: searching database for a path from node 5000 to node 32
+[1593273735360597]Thread #11: no path in database, calculating 5000->32
+[1593273735360883]Thread #11: path not possible from node 5000 to 32
+[1593273735360995]A connection has been delegated to thread id #11, system load 25.000000%
+[1593273735361745]Thread #11: searching database for a path from node 5000 to node 32
+[1593273735361825]Thread #11: no path in database, calculating 5000->32
+[1593273735362110]Thread #11: path not possible from node 5000 to 32
+[1593273735365001]Thread #10: searching database for a path from node 32 to node 5000
+[1593273735365101]Thread #10: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735366346]Thread #8: searching database for a path from node 5000 to node 32
+[1593273735368171]A connection has been delegated to thread id #0, system load 41.666667%
+[1593273735374605]Thread #8: no path in database, calculating 5000->32
+[1593273735375069]Thread #8: path not possible from node 5000 to 32
+[1593273735375246]Thread #9: searching database for a path from node 0 to node 10
+[1593273735375308]Thread #9: path found in database: 0->10
+[1593273735376786]A connection has been delegated to thread id #1, system load 25.000000%
+[1593273735379132]Thread #1: searching database for a path from node 0 to node 321331
+[1593273735379465]Thread #1: no path in database, calculating 0->321331
+[1593273735379632]Thread #1: path not possible from node 0 to 321331
+[1593273735380885]Thread #11: searching database for a path from node 0 to node 998
+[1593273735380951]Thread #11: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735383131]Thread #0: searching database for a path from node 23 to node 3492
+[1593273735383285]Thread #0: no path in database, calculating 23->3492
+[1593273735383759]Thread #0: path not possible from node 23 to 3492
+[1593273735384040]Thread #6: searching database for a path from node 0 to node 321331
+[1593273735384108]Thread #6: no path in database, calculating 0->321331
+[1593273735384157]Thread #6: path not possible from node 0 to 321331
+[1593273735394435]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273735396109]Thread #2: searching database for a path from node 0 to node 120
+[1593273735396254]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735404823]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273735406769]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273735408255]Thread #4: searching database for a path from node 0 to node 998
+[1593273735408344]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735410052]A connection has been delegated to thread id #5, system load 8.333333%
+[1593273735411325]A connection has been delegated to thread id #6, system load 16.666667%
+[1593273735412553]A connection has been delegated to thread id #7, system load 25.000000%
+[1593273735418672]Thread #7: searching database for a path from node 0 to node 5
+[1593273735418743]Thread #7: path found in database: 0->5
+[1593273735419384]A connection has been delegated to thread id #8, system load 25.000000%
+[1593273735429580]Thread #5: searching database for a path from node 23 to node 3492
+[1593273735430193]Thread #5: no path in database, calculating 23->3492
+[1593273735430251]Thread #3: searching database for a path from node 32 to node 5000
+[1593273735430798]Thread #5: path not possible from node 23 to 3492
+[1593273735430856]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735435854]Thread #6: searching database for a path from node 5000 to node 32
+[1593273735435952]A connection has been delegated to thread id #9, system load 16.666667%
+[1593273735436632]Thread #6: no path in database, calculating 5000->32
+[1593273735436932]Thread #6: path not possible from node 5000 to 32
+[1593273735437552]Thread #8: searching database for a path from node 0 to node 10
+[1593273735437595]Thread #8: path found in database: 0->10
+[1593273735441564]Thread #9: searching database for a path from node 0 to node 321331
+[1593273735441663]Thread #9: no path in database, calculating 0->321331
+[1593273735441707]Thread #9: path not possible from node 0 to 321331
+[1593273735449328]A connection has been delegated to thread id #10, system load 0.000000%
+[1593273735450252]A connection has been delegated to thread id #11, system load 0.000000%
+[1593273735451848]Thread #11: searching database for a path from node 0 to node 998
+[1593273735451932]Thread #11: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735452876]A connection has been delegated to thread id #0, system load 8.333333%
+[1593273735454134]Thread #0: searching database for a path from node 5000 to node 32
+[1593273735454220]Thread #0: no path in database, calculating 5000->32
+[1593273735454729]Thread #0: path not possible from node 5000 to 32
+[1593273735455053]A connection has been delegated to thread id #1, system load 8.333333%
+[1593273735466284]Thread #10: searching database for a path from node 0 to node 5
+[1593273735466430]Thread #10: path found in database: 0->5
+[1593273735472435]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273735480007]A connection has been delegated to thread id #3, system load 16.666667%
+[1593273735481947]Thread #2: searching database for a path from node 32 to node 5000
+[1593273735482045]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735486255]A connection has been delegated to thread id #4, system load 16.666667%
+[1593273735492968]Thread #4: searching database for a path from node 0 to node 5
+[1593273735493038]Thread #4: path found in database: 0->5
+[1593273735494031]A connection has been delegated to thread id #5, system load 16.666667%
+[1593273735495031]Thread #5: searching database for a path from node 0 to node 10
+[1593273735495089]Thread #5: path found in database: 0->10
+[1593273735495895]A connection has been delegated to thread id #6, system load 16.666667%
+[1593273735496847]Thread #6: searching database for a path from node 0 to node 998
+[1593273735496908]A connection has been delegated to thread id #7, system load 25.000000%
+[1593273735496998]Thread #6: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735504537]A connection has been delegated to thread id #8, system load 25.000000%
+[1593273735506442]Thread #8: searching database for a path from node 0 to node 120
+[1593273735506544]Thread #8: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735507752]Thread #1: searching database for a path from node 0 to node 120
+[1593273735507841]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735508803]Thread #3: searching database for a path from node 23 to node 3492
+[1593273735508871]Thread #3: no path in database, calculating 23->3492
+[1593273735509295]Thread #3: path not possible from node 23 to 3492
+[1593273735510526]Thread #7: searching database for a path from node 5000 to node 32
+[1593273735510601]Thread #7: no path in database, calculating 5000->32
+[1593273735511044]Thread #7: path not possible from node 5000 to 32
+[1593273735515304]A connection has been delegated to thread id #9, system load 0.000000%
+[1593273735517702]A connection has been delegated to thread id #10, system load 8.333333%
+[1593273735522868]A connection has been delegated to thread id #11, system load 16.666667%
+[1593273735524479]Thread #9: searching database for a path from node 0 to node 321331
+[1593273735524556]Thread #9: no path in database, calculating 0->321331
+[1593273735524597]Thread #9: path not possible from node 0 to 321331
+[1593273735526290]Thread #11: searching database for a path from node 32 to node 5000
+[1593273735526365]Thread #11: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735535765]Thread #10: searching database for a path from node 23 to node 3492
+[1593273735535838]Thread #10: no path in database, calculating 23->3492
+[1593273735536111]Thread #10: path not possible from node 23 to 3492
+[1593273735536280]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273735539258]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273735551675]Thread #0: searching database for a path from node 0 to node 998
+[1593273735551746]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735554627]Thread #1: searching database for a path from node 0 to node 321331
+[1593273735554692]Thread #1: no path in database, calculating 0->321331
+[1593273735554780]Thread #1: path not possible from node 0 to 321331
+[1593273735562987]A connection has been delegated to thread id #2, system load 0.000000%
+[1593273735564512]Thread #2: searching database for a path from node 0 to node 5
+[1593273735564641]Thread #2: path found in database: 0->5
+[1593273735570297]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273735574932]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273735576243]A connection has been delegated to thread id #5, system load 16.666667%
+[1593273735578146]A connection has been delegated to thread id #6, system load 25.000000%
+[1593273735578862]A connection has been delegated to thread id #7, system load 33.333333%
+[1593273735580136]Thread #6: searching database for a path from node 32 to node 5000
+[1593273735580328]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735584991]A connection has been delegated to thread id #8, system load 33.333333%
+[1593273735585980]A connection has been delegated to thread id #9, system load 41.666667%
+[1593273735586516]A connection has been delegated to thread id #10, system load 50.000000%
+[1593273735592986]Thread #3: searching database for a path from node 0 to node 10
+[1593273735593055]Thread #3: path found in database: 0->10
+[1593273735594495]Thread #5: searching database for a path from node 0 to node 321331
+[1593273735594575]Thread #5: no path in database, calculating 0->321331
+[1593273735594615]Thread #5: path not possible from node 0 to 321331
+[1593273735596356]Thread #10: searching database for a path from node 5000 to node 32
+[1593273735596438]A connection has been delegated to thread id #11, system load 41.666667%
+[1593273735598179]Thread #10: no path in database, calculating 5000->32
+[1593273735598249]Thread #7: searching database for a path from node 0 to node 120
+[1593273735598310]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735598938]Thread #10: path not possible from node 5000 to 32
+[1593273735599162]Thread #8: searching database for a path from node 0 to node 10
+[1593273735599211]Thread #8: path found in database: 0->10
+[1593273735601355]Thread #11: searching database for a path from node 23 to node 3492
+[1593273735601459]Thread #11: no path in database, calculating 23->3492
+[1593273735601928]Thread #11: path not possible from node 23 to 3492
+[1593273735612056]Thread #4: searching database for a path from node 0 to node 5
+[1593273735612138]Thread #4: path found in database: 0->5
+[1593273735615878]Thread #9: searching database for a path from node 0 to node 120
+[1593273735616031]Thread #9: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735623053]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273735627034]Thread #0: searching database for a path from node 32 to node 5000
+[1593273735627149]A connection has been delegated to thread id #1, system load 8.333333%
+[1593273735628869]A connection has been delegated to thread id #2, system load 16.666667%
+[1593273735629102]Thread #0: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735631706]Thread #1: searching database for a path from node 5000 to node 32
+[1593273735631795]Thread #1: no path in database, calculating 5000->32
+[1593273735632285]Thread #1: path not possible from node 5000 to 32
+[1593273735635403]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273735639727]Thread #3: searching database for a path from node 0 to node 10
+[1593273735641499]Thread #3: path found in database: 0->10
+[1593273735642492]Thread #2: searching database for a path from node 23 to node 3492
+[1593273735642564]Thread #2: no path in database, calculating 23->3492
+[1593273735642971]Thread #2: path not possible from node 23 to 3492
+[1593273735647681]A connection has been delegated to thread id #4, system load 0.000000%
+[1593273735650951]Thread #4: searching database for a path from node 0 to node 998
+[1593273735651029]A connection has been delegated to thread id #5, system load 8.333333%
+[1593273735651410]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735652329]A connection has been delegated to thread id #6, system load 8.333333%
+[1593273735656850]Thread #6: searching database for a path from node 0 to node 5
+[1593273735656916]Thread #6: path found in database: 0->5
+[1593273735657519]Thread #5: searching database for a path from node 0 to node 120
+[1593273735657563]Thread #5: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735658647]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273735660164]Thread #7: searching database for a path from node 0 to node 321331
+[1593273735660239]Thread #7: no path in database, calculating 0->321331
+[1593273735660279]Thread #7: path not possible from node 0 to 321331
+[1593273735663957]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273735668949]A connection has been delegated to thread id #9, system load 8.333333%
+[1593273735673909]Thread #8: searching database for a path from node 0 to node 998
+[1593273735674234]Thread #8: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735680524]Thread #9: searching database for a path from node 5000 to node 32
+[1593273735680610]Thread #9: no path in database, calculating 5000->32
+[1593273735681093]Thread #9: path not possible from node 5000 to 32
+[1593273735686441]A connection has been delegated to thread id #10, system load 0.000000%
+[1593273735687239]A connection has been delegated to thread id #11, system load 8.333333%
+[1593273735690209]Thread #11: searching database for a path from node 32 to node 5000
+[1593273735690300]Thread #11: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735690947]A connection has been delegated to thread id #0, system load 8.333333%
+[1593273735695903]A connection has been delegated to thread id #1, system load 16.666667%
+[1593273735700149]Thread #0: searching database for a path from node 0 to node 321331
+[1593273735700282]Thread #0: no path in database, calculating 0->321331
+[1593273735700337]Thread #0: path not possible from node 0 to 321331
+[1593273735707493]Thread #10: searching database for a path from node 23 to node 3492
+[1593273735707598]Thread #10: no path in database, calculating 23->3492
+[1593273735708048]Thread #10: path not possible from node 23 to 3492
+[1593273735717591]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273735719210]Thread #1: searching database for a path from node 0 to node 10
+[1593273735719312]Thread #1: path found in database: 0->10
+[1593273735724308]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273735725978]A connection has been delegated to thread id #4, system load 16.666667%
+[1593273735727369]Thread #3: searching database for a path from node 0 to node 998
+[1593273735727454]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735728411]Thread #2: searching database for a path from node 0 to node 5
+[1593273735728487]Thread #2: path found in database: 0->5
+[1593273735730659]Thread #4: searching database for a path from node 0 to node 120
+[1593273735730760]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735735666]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273735737526]A connection has been delegated to thread id #6, system load 8.333333%
+[1593273735748066]A connection has been delegated to thread id #7, system load 16.666667%
+[1593273735749366]A connection has been delegated to thread id #8, system load 25.000000%
+[1593273735751128]Thread #5: searching database for a path from node 5000 to node 32
+[1593273735751225]Thread #5: no path in database, calculating 5000->32
+[1593273735751642]Thread #5: path not possible from node 5000 to 32
+[1593273735753623]A connection has been delegated to thread id #9, system load 25.000000%
+[1593273735755261]Thread #8: searching database for a path from node 0 to node 10
+[1593273735755368]Thread #8: path found in database: 0->10
+[1593273735756369]Thread #6: searching database for a path from node 23 to node 3492
+[1593273735756464]Thread #6: no path in database, calculating 23->3492
+[1593273735756931]Thread #6: path not possible from node 23 to 3492
+[1593273735758281]A connection has been delegated to thread id #10, system load 16.666667%
+[1593273735759578]Thread #7: searching database for a path from node 32 to node 5000
+[1593273735759668]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735765506]A connection has been delegated to thread id #11, system load 16.666667%
+[1593273735767478]Thread #9: searching database for a path from node 0 to node 321331
+[1593273735767600]Thread #9: no path in database, calculating 0->321331
+[1593273735767643]Thread #9: path not possible from node 0 to 321331
+[1593273735769982]A connection has been delegated to thread id #0, system load 16.666667%
+[1593273735781111]A connection has been delegated to thread id #1, system load 25.000000%
+[1593273735783108]Thread #10: searching database for a path from node 0 to node 5
+[1593273735783176]Thread #10: path found in database: 0->5
+[1593273735787174]Thread #11: searching database for a path from node 0 to node 120
+[1593273735787251]Thread #11: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735789395]Thread #0: searching database for a path from node 0 to node 998
+[1593273735789477]Thread #0: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735791348]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273735792770]Thread #1: searching database for a path from node 5000 to node 32
+[1593273735792850]Thread #1: no path in database, calculating 5000->32
+[1593273735793308]Thread #1: path not possible from node 5000 to 32
+[1593273735797768]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273735806206]Thread #3: searching database for a path from node 32 to node 5000
+[1593273735806369]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735811693]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273735815755]A connection has been delegated to thread id #5, system load 16.666667%
+[1593273735817090]Thread #2: searching database for a path from node 23 to node 3492
+[1593273735817178]Thread #2: no path in database, calculating 23->3492
+[1593273735817643]Thread #2: path not possible from node 23 to 3492
+[1593273735817713]A connection has been delegated to thread id #6, system load 25.000000%
+[1593273735818607]Thread #4: searching database for a path from node 0 to node 5
+[1593273735822520]Thread #4: path found in database: 0->5
+[1593273735823407]Thread #5: searching database for a path from node 0 to node 10
+[1593273735823480]Thread #5: path found in database: 0->10
+[1593273735825784]Thread #6: searching database for a path from node 0 to node 321331
+[1593273735825874]Thread #6: no path in database, calculating 0->321331
+[1593273735825927]Thread #6: path not possible from node 0 to 321331
+[1593273735838206]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273735843446]A connection has been delegated to thread id #8, system load 8.333333%
+[1593273735849127]A connection has been delegated to thread id #9, system load 16.666667%
+[1593273735849792]A connection has been delegated to thread id #10, system load 25.000000%
+[1593273735850672]A connection has been delegated to thread id #11, system load 33.333333%
+[1593273735855175]A connection has been delegated to thread id #0, system load 41.666667%
+[1593273735856619]A connection has been delegated to thread id #1, system load 50.000000%
+[1593273735857957]A connection has been delegated to thread id #2, system load 58.333333%
+[1593273735862661]A connection has been delegated to thread id #3, system load 66.666667%
+[1593273735864323]Thread #3: searching database for a path from node 0 to node 321331
+[1593273735865439]Thread #3: no path in database, calculating 0->321331
+[1593273735865503]Thread #7: searching database for a path from node 32 to node 5000
+[1593273735865556]Thread #3: path not possible from node 0 to 321331
+[1593273735865621]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735865682]Thread #11: searching database for a path from node 23 to node 3492
+[1593273735865818]Thread #11: no path in database, calculating 23->3492
+[1593273735866139]Thread #11: path not possible from node 23 to 3492
+[1593273735867407]Thread #8: searching database for a path from node 5000 to node 32
+[1593273735868058]Thread #8: no path in database, calculating 5000->32
+[1593273735869951]Thread #8: path not possible from node 5000 to 32
+[1593273735873299]Thread #1: searching database for a path from node 0 to node 120
+[1593273735873359]Thread #1: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735876032]Thread #2: searching database for a path from node 0 to node 120
+[1593273735876151]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735884102]Thread #9: searching database for a path from node 0 to node 10
+[1593273735884190]Thread #9: path found in database: 0->10
+[1593273735887054]A connection has been delegated to thread id #4, system load 16.666667%
+[1593273735888090]Thread #4: searching database for a path from node 0 to node 998
+[1593273735888157]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735889584]Thread #0: searching database for a path from node 0 to node 5
+[1593273735889668]Thread #0: path found in database: 0->5
+[1593273735891939]Thread #10: searching database for a path from node 0 to node 998
+[1593273735892022]Thread #10: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735896190]A connection has been delegated to thread id #5, system load 0.000000%
+[1593273735897036]Thread #5: searching database for a path from node 5000 to node 32
+[1593273735897089]Thread #5: no path in database, calculating 5000->32
+[1593273735897406]Thread #5: path not possible from node 5000 to 32
+[1593273735906004]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273735908838]Thread #6: searching database for a path from node 0 to node 5
+[1593273735908940]Thread #6: path found in database: 0->5
+[1593273735913284]A connection has been delegated to thread id #7, system load 0.000000%
+[1593273735914643]Thread #7: searching database for a path from node 0 to node 10
+[1593273735914725]Thread #7: path found in database: 0->10
+[1593273735914915]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273735916156]Thread #8: searching database for a path from node 0 to node 321331
+[1593273735916241]Thread #8: no path in database, calculating 0->321331
+[1593273735916280]Thread #8: path not possible from node 0 to 321331
+[1593273735929921]A connection has been delegated to thread id #9, system load 0.000000%
+[1593273735930461]A connection has been delegated to thread id #10, system load 8.333333%
+[1593273735931446]Thread #10: searching database for a path from node 0 to node 120
+[1593273735931585]Thread #10: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735933398]A connection has been delegated to thread id #11, system load 8.333333%
+[1593273735934616]Thread #11: searching database for a path from node 0 to node 998
+[1593273735934713]Thread #11: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273735937563]Thread #9: searching database for a path from node 32 to node 5000
+[1593273735937668]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735943945]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273735945213]Thread #0: searching database for a path from node 23 to node 3492
+[1593273735945292]Thread #0: no path in database, calculating 23->3492
+[1593273735945753]Thread #0: path not possible from node 23 to 3492
+[1593273735949301]A connection has been delegated to thread id #1, system load 0.000000%
+[1593273735950532]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273735956011]Thread #2: searching database for a path from node 5000 to node 32
+[1593273735956082]Thread #2: no path in database, calculating 5000->32
+[1593273735956359]Thread #2: path not possible from node 5000 to 32
+[1593273735956831]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273735959075]A connection has been delegated to thread id #4, system load 16.666667%
+[1593273735961796]Thread #1: searching database for a path from node 32 to node 5000
+[1593273735961879]Thread #1: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273735964516]Thread #3: searching database for a path from node 0 to node 10
+[1593273735964589]Thread #3: path found in database: 0->10
+[1593273735968494]A connection has been delegated to thread id #5, system load 8.333333%
+[1593273735976125]A connection has been delegated to thread id #6, system load 16.666667%
+[1593273735977258]Thread #6: searching database for a path from node 23 to node 3492
+[1593273735977366]Thread #6: no path in database, calculating 23->3492
+[1593273735977645]Thread #6: path not possible from node 23 to 3492
+[1593273735981988]Thread #4: searching database for a path from node 0 to node 321331
+[1593273735982065]Thread #4: no path in database, calculating 0->321331
+[1593273735982105]Thread #4: path not possible from node 0 to 321331
+[1593273735982290]A connection has been delegated to thread id #7, system load 8.333333%
+[1593273735984805]Thread #7: searching database for a path from node 0 to node 120
+[1593273735984881]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273735987208]Thread #5: searching database for a path from node 0 to node 5
+[1593273735987329]Thread #5: path found in database: 0->5
+[1593273735996113]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273735998578]A connection has been delegated to thread id #9, system load 8.333333%
+[1593273736008024]A connection has been delegated to thread id #10, system load 16.666667%
+[1593273736011903]A connection has been delegated to thread id #11, system load 25.000000%
+[1593273736013771]A connection has been delegated to thread id #0, system load 33.333333%
+[1593273736015599]A connection has been delegated to thread id #1, system load 41.666667%
+[1593273736016652]A connection has been delegated to thread id #2, system load 50.000000%
+[1593273736019466]Thread #8: searching database for a path from node 5000 to node 32
+[1593273736019563]A connection has been delegated to thread id #3, system load 58.333333%
+[1593273736019669]Thread #8: no path in database, calculating 5000->32
+[1593273736019955]Thread #8: path not possible from node 5000 to 32
+[1593273736027148]A connection has been delegated to thread id #4, system load 58.333333%
+[1593273736029809]Thread #2: searching database for a path from node 0 to node 998
+[1593273736029966]Thread #2: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736031008]Thread #3: searching database for a path from node 0 to node 321331
+[1593273736031072]Thread #3: no path in database, calculating 0->321331
+[1593273736031101]Thread #3: path not possible from node 0 to 321331
+[1593273736031494]A connection has been delegated to thread id #5, system load 50.000000%
+[1593273736035106]A connection has been delegated to thread id #6, system load 58.333333%
+[1593273736037487]Thread #10: searching database for a path from node 32 to node 5000
+[1593273736038598]Thread #10: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736040241]Thread #9: searching database for a path from node 0 to node 120
+[1593273736040495]A connection has been delegated to thread id #7, system load 66.666667%
+[1593273736042285]Thread #9: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736042537]Thread #0: searching database for a path from node 0 to node 10
+[1593273736042702]Thread #0: path found in database: 0->10
+[1593273736047080]Thread #7: searching database for a path from node 0 to node 321331
+[1593273736047161]Thread #7: no path in database, calculating 0->321331
+[1593273736047200]Thread #7: path not possible from node 0 to 321331
+[1593273736047427]Thread #1: searching database for a path from node 23 to node 3492
+[1593273736047472]Thread #1: no path in database, calculating 23->3492
+[1593273736047893]Thread #1: path not possible from node 23 to 3492
+[1593273736048234]A connection has been delegated to thread id #8, system load 33.333333%
+[1593273736053002]A connection has been delegated to thread id #9, system load 33.333333%
+[1593273736057449]Thread #8: searching database for a path from node 5000 to node 32
+[1593273736057835]Thread #8: no path in database, calculating 5000->32
+[1593273736058906]Thread #8: path not possible from node 5000 to 32
+[1593273736063753]Thread #11: searching database for a path from node 0 to node 5
+[1593273736064087]Thread #11: path found in database: 0->5
+[1593273736069145]A connection has been delegated to thread id #10, system load 33.333333%
+[1593273736070854]Thread #6: searching database for a path from node 23 to node 3492
+[1593273736070958]Thread #6: no path in database, calculating 23->3492
+[1593273736071423]Thread #6: path not possible from node 23 to 3492
+[1593273736072496]A connection has been delegated to thread id #11, system load 33.333333%
+[1593273736073290]A connection has been delegated to thread id #0, system load 41.666667%
+[1593273736074445]Thread #4: searching database for a path from node 0 to node 120
+[1593273736074504]Thread #4: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736076430]Thread #10: searching database for a path from node 0 to node 5
+[1593273736076529]Thread #10: path found in database: 0->5
+[1593273736079602]Thread #11: searching database for a path from node 0 to node 10
+[1593273736079674]Thread #11: path found in database: 0->10
+[1593273736080360]Thread #5: searching database for a path from node 0 to node 998
+[1593273736080422]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736086254]A connection has been delegated to thread id #1, system load 16.666667%
+[1593273736093140]Thread #9: searching database for a path from node 32 to node 5000
+[1593273736093270]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736093628]A connection has been delegated to thread id #2, system load 16.666667%
+[1593273736094558]Thread #2: searching database for a path from node 5000 to node 32
+[1593273736094622]Thread #2: no path in database, calculating 5000->32
+[1593273736095048]Thread #2: path not possible from node 5000 to 32
+[1593273736096565]Thread #0: searching database for a path from node 32 to node 5000
+[1593273736096840]Thread #0: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736107771]Thread #1: searching database for a path from node 23 to node 3492
+[1593273736107875]Thread #1: no path in database, calculating 23->3492
+[1593273736108334]Thread #1: path not possible from node 23 to 3492
+[1593273736112383]A connection has been delegated to thread id #3, system load 0.000000%
+[1593273736116517]A connection has been delegated to thread id #4, system load 8.333333%
+[1593273736117057]A connection has been delegated to thread id #5, system load 16.666667%
+[1593273736132488]Thread #4: searching database for a path from node 0 to node 321331
+[1593273736134170]Thread #4: no path in database, calculating 0->321331
+[1593273736134235]Thread #3: searching database for a path from node 0 to node 5
+[1593273736134333]Thread #3: path found in database: 0->5
+[1593273736134617]Thread #5: searching database for a path from node 0 to node 998
+[1593273736134672]Thread #5: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736134816]Thread #4: path not possible from node 0 to 321331
+[1593273736134943]A connection has been delegated to thread id #6, system load 0.000000%
+[1593273736137892]A connection has been delegated to thread id #7, system load 8.333333%
+[1593273736139655]Thread #6: searching database for a path from node 0 to node 10
+[1593273736139742]Thread #6: path found in database: 0->10
+[1593273736140744]Thread #7: searching database for a path from node 0 to node 120
+[1593273736140808]Thread #7: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736142859]A connection has been delegated to thread id #8, system load 0.000000%
+[1593273736144777]A connection has been delegated to thread id #9, system load 8.333333%
+[1593273736146905]Thread #8: searching database for a path from node 5000 to node 32
+[1593273736147193]Thread #8: no path in database, calculating 5000->32
+[1593273736147784]Thread #8: path not possible from node 5000 to 32
+[1593273736149970]Thread #9: searching database for a path from node 0 to node 998
+[1593273736150049]Thread #9: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736166112]A connection has been delegated to thread id #10, system load 0.000000%
+[1593273736166899]A connection has been delegated to thread id #11, system load 0.000000%
+[1593273736168484]A connection has been delegated to thread id #0, system load 16.666667%
+[1593273736169625]Thread #0: searching database for a path from node 0 to node 120
+[1593273736169698]A connection has been delegated to thread id #1, system load 25.000000%
+[1593273736169800]Thread #0: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736171982]Thread #1: searching database for a path from node 0 to node 321331
+[1593273736172052]Thread #1: no path in database, calculating 0->321331
+[1593273736172081]Thread #1: path not possible from node 0 to 321331
+[1593273736173749]Thread #10: searching database for a path from node 23 to node 3492
+[1593273736173841]Thread #10: no path in database, calculating 23->3492
+[1593273736174297]Thread #10: path not possible from node 23 to 3492
+[1593273736174937]A connection has been delegated to thread id #2, system load 8.333333%
+[1593273736178543]Thread #11: searching database for a path from node 0 to node 5
+[1593273736178648]Thread #11: path found in database: 0->5
+[1593273736185426]A connection has been delegated to thread id #3, system load 8.333333%
+[1593273736186792]A connection has been delegated to thread id #4, system load 16.666667%
+[1593273736188659]Thread #2: searching database for a path from node 32 to node 5000
+[1593273736188763]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736200881]A connection has been delegated to thread id #5, system load 16.666667%
+[1593273736202012]A connection has been delegated to thread id #6, system load 25.000000%
+[1593273736203276]A connection has been delegated to thread id #7, system load 33.333333%
+[1593273736206222]Thread #4: searching database for a path from node 0 to node 998
+[1593273736207012]Thread #4: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736210436]A connection has been delegated to thread id #8, system load 33.333333%
+[1593273736212446]Thread #7: searching database for a path from node 5000 to node 32
+[1593273736212511]Thread #7: no path in database, calculating 5000->32
+[1593273736212779]Thread #7: path not possible from node 5000 to 32
+[1593273736215102]Thread #6: searching database for a path from node 0 to node 10
+[1593273736215189]Thread #6: path found in database: 0->10
+[1593273736215268]A connection has been delegated to thread id #9, system load 33.333333%
+[1593273736216482]Thread #9: searching database for a path from node 0 to node 321331
+[1593273736216540]Thread #9: no path in database, calculating 0->321331
+[1593273736216566]Thread #9: path not possible from node 0 to 321331
+[1593273736218280]A connection has been delegated to thread id #10, system load 33.333333%
+[1593273736219689]A connection has been delegated to thread id #11, system load 33.333333%
+[1593273736221986]Thread #10: searching database for a path from node 0 to node 120
+[1593273736222078]Thread #10: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736223281]Thread #11: searching database for a path from node 0 to node 5
+[1593273736223416]Thread #11: path found in database: 0->5
+[1593273736229784]Thread #8: searching database for a path from node 0 to node 10
+[1593273736230450]Thread #3: searching database for a path from node 32 to node 5000
+[1593273736230492]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736230631]Thread #8: path found in database: 0->10
+[1593273736239779]Thread #5: searching database for a path from node 23 to node 3492
+[1593273736239883]Thread #5: no path in database, calculating 23->3492
+[1593273736240375]Thread #5: path not possible from node 23 to 3492
+[1593273736253871]A connection has been delegated to thread id #0, system load 0.000000%
+[1593273736256023]A connection has been delegated to thread id #1, system load 8.333333%
+[1593273736258062]A connection has been delegated to thread id #2, system load 16.666667%
+[1593273736258902]A connection has been delegated to thread id #3, system load 25.000000%
+[1593273736259459]A connection has been delegated to thread id #4, system load 33.333333%
+[1593273736261201]A connection has been delegated to thread id #5, system load 41.666667%
+[1593273736263520]A connection has been delegated to thread id #6, system load 50.000000%
+[1593273736264588]A connection has been delegated to thread id #7, system load 58.333333%
+[1593273736264931]A connection has been delegated to thread id #8, system load 66.666667%
+[1593273736276349]A connection has been delegated to thread id #9, system load 75.000000%
+[1593273736276520]System load 75.000000%,pool extended to 15 threads
+[1593273736356124]Thread #1: searching database for a path from node 5000 to node 32
+[1593273736358599]Thread #1: no path in database, calculating 5000->32
+[1593273736359120]Thread #1: path not possible from node 5000 to 32
+[1593273736360259]Thread #4: searching database for a path from node 0 to node 10
+[1593273736360355]Thread #4: path found in database: 0->10
+[1593273736362381]Thread #5: searching database for a path from node 32 to node 5000
+[1593273736362515]Thread #5: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736363740]Thread #9: searching database for a path from node 5000 to node 32
+[1593273736366171]Thread #9: no path in database, calculating 5000->32
+[1593273736366676]Thread #9: path not possible from node 5000 to 32
+[1593273736482347]Thread #12: Waiting for the connection.
+[1593273736622192]A connection has been delegated to thread id #10, system load 40.000000%
+[1593273736622521]Thread #3: searching database for a path from node 0 to node 998
+[1593273736622697]A connection has been delegated to thread id #11, system load 40.000000%
+[1593273736622829]A connection has been delegated to thread id #12, system load 40.000000%
+[1593273736622939]A connection has been delegated to thread id #13, system load 40.000000%
+[1593273736623026]A connection has been delegated to thread id #14, system load 40.000000%
+[1593273736625409]Thread #14: Waiting for the connection.
+[1593273736627698]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736627926]Thread #6: searching database for a path from node 0 to node 10
+[1593273736627999]Thread #6: path found in database: 0->10
+[1593273736628223]Thread #0: searching database for a path from node 0 to node 120
+[1593273736628305]Thread #0: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736628681]Thread #2: searching database for a path from node 23 to node 3492
+[1593273736629516]Thread #2: no path in database, calculating 23->3492
+[1593273736634763]A connection has been delegated to thread id #0, system load 46.666667%
+[1593273736634892]A connection has been delegated to thread id #1, system load 46.666667%
+[1593273736635586]Thread #1: searching database for a path from node 0 to node 998
+[1593273736635633]Thread #1: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736635761]Thread #7: searching database for a path from node 23 to node 3492
+[1593273736635828]Thread #7: no path in database, calculating 23->3492
+[1593273736636091]Thread #7: path not possible from node 23 to 3492
+[1593273736636191]Thread #11: searching database for a path from node 0 to node 321331
+[1593273736636226]Thread #11: no path in database, calculating 0->321331
+[1593273736636247]Thread #11: path not possible from node 0 to 321331
+[1593273736636336]Thread #12: searching database for a path from node 0 to node 5
+[1593273736636369]Thread #12: path found in database: 0->5
+[1593273736636458]Thread #8: searching database for a path from node 0 to node 321331
+[1593273736636492]Thread #8: no path in database, calculating 0->321331
+[1593273736636513]Thread #8: path not possible from node 0 to 321331
+[1593273736634711]Thread #2: path not possible from node 23 to 3492
+[1593273736650833]Thread #0: searching database for a path from node 5000 to node 32
+[1593273736651089]A connection has been delegated to thread id #2, system load 26.666667%
+[1593273736651243]A connection has been delegated to thread id #3, system load 26.666667%
+[1593273736651343]A connection has been delegated to thread id #4, system load 26.666667%
+[1593273736651432]A connection has been delegated to thread id #5, system load 26.666667%
+[1593273736651517]A connection has been delegated to thread id #6, system load 26.666667%
+[1593273736651603]A connection has been delegated to thread id #7, system load 26.666667%
+[1593273736651686]A connection has been delegated to thread id #8, system load 26.666667%
+[1593273736651766]A connection has been delegated to thread id #9, system load 26.666667%
+[1593273736662979]Thread #13: Waiting for the connection.
+[1593273736664721]Thread #0: no path in database, calculating 5000->32
+[1593273736665259]Thread #0: path not possible from node 5000 to 32
+[1593273736669724]Thread #4: searching database for a path from node 32 to node 5000
+[1593273736669806]Thread #4: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736669965]Thread #9: searching database for a path from node 0 to node 10
+[1593273736670011]Thread #9: path found in database: 0->10
+[1593273736670119]Thread #5: searching database for a path from node 23 to node 3492
+[1593273736670160]Thread #5: no path in database, calculating 23->3492
+[1593273736670699]Thread #5: path not possible from node 23 to 3492
+[1593273736672186]Thread #6: searching database for a path from node 5000 to node 32
+[1593273736672281]Thread #6: no path in database, calculating 5000->32
+[1593273736672778]Thread #6: path not possible from node 5000 to 32
+[1593273736674818]Thread #10: searching database for a path from node 0 to node 5
+[1593273736674951]Thread #10: path found in database: 0->5
+[1593273736682464]A connection has been delegated to thread id #10, system load 40.000000%
+[1593273736683689]Thread #10: searching database for a path from node 0 to node 998
+[1593273736683815]A connection has been delegated to thread id #11, system load 46.666667%
+[1593273736683953]A connection has been delegated to thread id #12, system load 46.666667%
+[1593273736686601]Thread #10: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736686785]Thread #3: searching database for a path from node 32 to node 5000
+[1593273736686834]Thread #3: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736690462]Thread #2: searching database for a path from node 32 to node 5000
+[1593273736690538]Thread #2: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736690674]Thread #7: searching database for a path from node 0 to node 5
+[1593273736690728]Thread #7: path found in database: 0->5
+[1593273736690823]Thread #14: searching database for a path from node 0 to node 998
+[1593273736690861]Thread #14: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736690959]Thread #13: searching database for a path from node 0 to node 120
+[1593273736691022]Thread #11: searching database for a path from node 23 to node 3492
+[1593273736691053]Thread #11: no path in database, calculating 23->3492
+[1593273736691337]Thread #11: path not possible from node 23 to 3492
+[1593273736691435]Thread #12: searching database for a path from node 0 to node 998
+[1593273736691471]Thread #12: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736691560]Thread #8: searching database for a path from node 32 to node 5000
+[1593273736691586]Thread #8: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736691666]Thread #13: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736691753]A connection has been delegated to thread id #13, system load 6.666667%
+[1593273736691824]A connection has been delegated to thread id #14, system load 6.666667%
+[1593273736691879]A connection has been delegated to thread id #0, system load 6.666667%
+[1593273736691930]A connection has been delegated to thread id #1, system load 6.666667%
+[1593273736691979]A connection has been delegated to thread id #2, system load 6.666667%
+[1593273736692027]A connection has been delegated to thread id #3, system load 6.666667%
+[1593273736692076]A connection has been delegated to thread id #4, system load 6.666667%
+[1593273736693212]Thread #3: searching database for a path from node 0 to node 321331
+[1593273736693289]Thread #3: no path in database, calculating 0->321331
+[1593273736693331]Thread #3: path not possible from node 0 to 321331
+[1593273736694820]Thread #0: searching database for a path from node 0 to node 5
+[1593273736697018]A connection has been delegated to thread id #5, system load 26.666667%
+[1593273736697174]A connection has been delegated to thread id #6, system load 26.666667%
+[1593273736697275]A connection has been delegated to thread id #7, system load 26.666667%
+[1593273736698033]Thread #0: path found in database: 0->5
+[1593273736702162]Thread #7: searching database for a path from node 0 to node 321331
+[1593273736702273]Thread #7: no path in database, calculating 0->321331
+[1593273736702321]Thread #7: path not possible from node 0 to 321331
+[1593273736704135]Thread #5: searching database for a path from node 0 to node 321331
+[1593273736704272]Thread #5: no path in database, calculating 0->321331
+[1593273736704326]Thread #5: path not possible from node 0 to 321331
+[1593273736705428]Thread #1: searching database for a path from node 5000 to node 32
+[1593273736705609]Thread #1: no path in database, calculating 5000->32
+[1593273736705750]A connection has been delegated to thread id #8, system load 33.333333%
+[1593273736706063]A connection has been delegated to thread id #9, system load 33.333333%
+[1593273736706167]A connection has been delegated to thread id #10, system load 33.333333%
+[1593273736706260]A connection has been delegated to thread id #11, system load 33.333333%
+[1593273736706350]A connection has been delegated to thread id #12, system load 33.333333%
+[1593273736711806]A connection has been delegated to thread id #13, system load 33.333333%
+[1593273736711922]A connection has been delegated to thread id #14, system load 33.333333%
+[1593273736712020]A connection has been delegated to thread id #0, system load 33.333333%
+[1593273736713265]Thread #6: searching database for a path from node 0 to node 5
+[1593273736721305]Thread #1: path not possible from node 5000 to 32
+[1593273736726872]Thread #6: path found in database: 0->5
+[1593273736727598]Thread #10: searching database for a path from node 23 to node 3492
+[1593273736727666]Thread #10: no path in database, calculating 23->3492
+[1593273736730497]Thread #10: path not possible from node 23 to 3492
+[1593273736730799]A connection has been delegated to thread id #1, system load 66.666667%
+[1593273736730911]Thread #9: searching database for a path from node 5000 to node 32
+[1593273736730941]Thread #9: no path in database, calculating 5000->32
+[1593273736731206]Thread #9: path not possible from node 5000 to 32
+[1593273736731328]Thread #8: searching database for a path from node 0 to node 10
+[1593273736731357]Thread #8: path found in database: 0->10
+[1593273736731450]Thread #12: searching database for a path from node 0 to node 998
+[1593273736731477]Thread #12: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736731565]Thread #4: searching database for a path from node 23 to node 3492
+[1593273736731591]Thread #4: no path in database, calculating 23->3492
+[1593273736731858]Thread #4: path not possible from node 23 to 3492
+[1593273736731958]Thread #11: searching database for a path from node 0 to node 120
+[1593273736731986]Thread #11: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736732753]Thread #1: searching database for a path from node 0 to node 5
+[1593273736732792]Thread #1: path found in database: 0->5
+[1593273736732901]Thread #2: searching database for a path from node 0 to node 120
+[1593273736732928]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736733013]A connection has been delegated to thread id #2, system load 26.666667%
+[1593273736733130]A connection has been delegated to thread id #3, system load 26.666667%
+[1593273736733799]Thread #2: searching database for a path from node 0 to node 120
+[1593273736733839]Thread #2: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736733989]A connection has been delegated to thread id #4, system load 26.666667%
+[1593273736734107]A connection has been delegated to thread id #5, system load 26.666667%
+[1593273736737434]Thread #4: searching database for a path from node 23 to node 3492
+[1593273736737512]Thread #4: no path in database, calculating 23->3492
+[1593273736737774]Thread #4: path not possible from node 23 to 3492
+[1593273736737975]A connection has been delegated to thread id #6, system load 26.666667%
+[1593273736738133]A connection has been delegated to thread id #7, system load 26.666667%
+[1593273736738250]A connection has been delegated to thread id #8, system load 26.666667%
+[1593273736739172]Thread #7: searching database for a path from node 0 to node 321331
+[1593273736745877]Thread #7: no path in database, calculating 0->321331
+[1593273736745971]Thread #7: path not possible from node 0 to 321331
+[1593273736746312]A connection has been delegated to thread id #9, system load 33.333333%
+[1593273736756847]Thread #8: searching database for a path from node 0 to node 10
+[1593273736756951]Thread #8: path found in database: 0->10
+[1593273736757787]Thread #5: searching database for a path from node 0 to node 120
+[1593273736757855]Thread #5: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736757939]Thread #3: searching database for a path from node 0 to node 998
+[1593273736758009]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736758221]Thread #6: searching database for a path from node 0 to node 5
+[1593273736758281]Thread #6: path found in database: 0->5
+[1593273736758477]Thread #0: searching database for a path from node 0 to node 321331
+[1593273736758539]Thread #0: no path in database, calculating 0->321331
+[1593273736758578]Thread #0: path not possible from node 0 to 321331
+[1593273736760702]A connection has been delegated to thread id #10, system load 20.000000%
+[1593273736762878]Thread #9: searching database for a path from node 32 to node 5000
+[1593273736762982]Thread #9: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736764328]Thread #10: searching database for a path from node 5000 to node 32
+[1593273736764457]Thread #10: no path in database, calculating 5000->32
+[1593273736764800]Thread #10: path not possible from node 5000 to 32
+[1593273736770478]A connection has been delegated to thread id #11, system load 13.333333%
+[1593273736771419]A connection has been delegated to thread id #12, system load 20.000000%
+[1593273736771856]A connection has been delegated to thread id #13, system load 26.666667%
+[1593273736772519]Thread #14: searching database for a path from node 0 to node 120
+[1593273736772572]Thread #14: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736773422]Thread #14: searching database for a path from node 32 to node 5000
+[1593273736773474]Thread #14: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736773623]A connection has been delegated to thread id #14, system load 20.000000%
+[1593273736773755]A connection has been delegated to thread id #0, system load 20.000000%
+[1593273736773876]A connection has been delegated to thread id #1, system load 20.000000%
+[1593273736774180]A connection has been delegated to thread id #2, system load 26.666667%
+[1593273736774310]A connection has been delegated to thread id #3, system load 26.666667%
+[1593273736775625]A connection has been delegated to thread id #4, system load 33.333333%
+[1593273736776177]A connection has been delegated to thread id #5, system load 40.000000%
+[1593273736779052]Thread #13: searching database for a path from node 0 to node 10
+[1593273736779312]Thread #13: path found in database: 0->10
+[1593273736793498]A connection has been delegated to thread id #6, system load 46.666667%
+[1593273736788500]Thread #13: searching database for a path from node 0 to node 10
+[1593273736798708]A connection has been delegated to thread id #7, system load 66.666667%
+[1593273736799080]A connection has been delegated to thread id #8, system load 73.333333%
+[1593273736799879]System load 86.666667%,pool extended to 18 threads
+[1593273736862012]Thread #13: path found in database: 0->10
+[1593273736862133]Thread #11: searching database for a path from node 0 to node 120
+[1593273736864962]Thread #11: path found in database: 0->3->1287->331->334->1888->1251->1057->1063->2991->3244->120
+[1593273736866371]Thread #13: searching database for a path from node 0 to node 10
+[1593273736866525]Thread #13: path found in database: 0->10
+[1593273736867126]Thread #12: searching database for a path from node 23 to node 3492
+[1593273736867240]Thread #12: no path in database, calculating 23->3492
+[1593273736867734]Thread #12: path not possible from node 23 to 3492
+[1593273736867902]Thread #4: searching database for a path from node 0 to node 321331
+[1593273736867961]Thread #4: no path in database, calculating 0->321331
+[1593273736867999]Thread #4: path not possible from node 0 to 321331
+[1593273736868140]Thread #14: searching database for a path from node 0 to node 998
+[1593273736868243]Thread #14: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736868380]Thread #7: searching database for a path from node 32 to node 5000
+[1593273736868433]Thread #7: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736868568]Thread #2: searching database for a path from node 5000 to node 32
+[1593273736868619]Thread #2: no path in database, calculating 5000->32
+[1593273736869046]Thread #2: path not possible from node 5000 to 32
+[1593273736869213]Thread #1: searching database for a path from node 23 to node 3492
+[1593273736869263]Thread #1: no path in database, calculating 23->3492
+[1593273736869712]Thread #1: path not possible from node 23 to 3492
+[1593273736872943]Thread #6: searching database for a path from node 32 to node 5000
+[1593273736873112]Thread #6: path found in database: 32->1199->3->703->2638->4230->5000
+[1593273736877537]Thread #3: searching database for a path from node 0 to node 998
+[1593273736878322]Thread #3: path found in database: 0->3->703->2634->3409->707->1107->998
+[1593273736879042]Thread #8: searching database for a path from node 0 to node 5
+[1593273736957187]A connection has been delegated to thread id #9, system load 16.666667%
+[1593273736959432]Thread #15: Waiting for the connection.
+[1593273736959543]Thread #8: path found in database: 0->5
+[1593273736959752]Thread #5: searching database for a path from node 0 to node 10
+[1593273736959819]Thread #5: path found in database: 0->10
+[1593273736959966]Thread #16: Waiting for the connection.
+[1593273736961075]Thread #9: searching database for a path from node 0 to node 321331
+[1593273736961188]Thread #9: no path in database, calculating 0->321331
+[1593273736961234]Thread #9: path not possible from node 0 to 321331
+[1593273736961409]Thread #0: searching database for a path from node 5000 to node 32
+[1593273736961456]Thread #0: no path in database, calculating 5000->32
+[1593273736961876]Thread #0: path not possible from node 5000 to 32
+[1593273736964816]Thread #17: Waiting for the connection.
+[1593273794084226]Termination signal(2) received, waiting for ongoing threads to complete.
+[1593273794087866]Thread 0 is exiting.
+[1593273794092453]Thread 3 is exiting.
+[1593273794093883]Thread 9 is exiting.
+[1593273794094096]Pool thread is exiting.
+[1593273794094279]Thread 17 is exiting.
+[1593273794094320]Thread 11 is exiting.
+[1593273794094345]Thread 13 is exiting.
+[1593273794094376]Thread 4 is exiting.
+[1593273794094433]Thread 6 is exiting.
+[1593273794096552]Thread 1 is exiting.
+[1593273794096687]Thread 15 is exiting.
+[1593273794096731]Thread 12 is exiting.
+[1593273794096768]Thread 7 is exiting.
+[1593273794096802]Thread 10 is exiting.
+[1593273794096837]Thread 2 is exiting.
+[1593273794096871]Thread 16 is exiting.
+[1593273794096893]Thread 14 is exiting.
+[1593273794096925]Thread 8 is exiting.
+[1593273794096958]Thread 5 is exiting.
+[1593273794116036]All threads have terminated, server shutting down
+[1593273794116810]Sockets closed.
+[1593273794117929]Mutexes destroyed.
+[1593273794119505]Condition variables destroyed.
+[1593273794132511]Variables free'd.
+[1593273794132940]Files are closing and deleting...
